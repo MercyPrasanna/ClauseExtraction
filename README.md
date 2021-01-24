@@ -7,9 +7,9 @@ The solution described here demonstrate how organizations can use Azure cognitiv
 ## Model Development
 The solution highlights the usage of Custom Text for building claasification models for document classification and extractor models for entity/clause extraction from documents. Custom Text enables the development of hierachical entities and reuse of one model within another with an approach of machine teaching. Azure Cognitive Search is used to orchestrate the pipeline of calling these models and storing the results in a search index or knowledge store.
 
-![](./media/ModelDevelopmentCustomText.png)
+![](../media/ModelDevelopmentCustomText.png)
 
-As Custom Text requires txt documents for training the models, the [preprocessing code](./PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
+As Custom Text requires txt documents for training the models, the [preprocessing code](../PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
 
 ## Solution Architecture
 Azure Cognitive Search is used for orchestrating the extraction pipeline and storing the extracted results in Azure Cognitive Search Index/Knowledge Store for downstream use.
@@ -18,7 +18,7 @@ The Custom Text model for entity extraction and the classification models are in
 
 Alternatively, the document classification model can be developed using Automated Machine Learning and integrated using the [Azure Machine Learning Skill](https://docs.microsoft.com/en-us/azure/search/cognitive-search-aml-skill) in Azure Cognitive Search.
 
-![](./media/SolutionArchitecture.png)
+![](../media/SolutionArchitecture.png)
 
 ### Process Flow
 Azure Cognitive Search Indexer will trigger the AI Pipeline that will,
@@ -28,7 +28,7 @@ Azure Cognitive Search Indexer will trigger the AI Pipeline that will,
 * Execute a custom skill for post processing to remove duplicate entities.
 * The extracted results are stored for exploration in the Azure Cognitive Search Index.
 
-![](./media/CognitiveSearchPipeline.png)
+![](../media/CognitiveSearchPipeline.png)
 
 Custom Skills were deployed as an Azure Function and Integrated with Azure Cognitive Search.
 
@@ -50,7 +50,7 @@ Create the Custom Text application with the extractor and classification models.
 
 Sample extractor schema below,
 
-![](./media/Case.png)
+![](../media/Case.png)
 
 Train the below four classification models to identify the tribunal class.
 * discrimination
@@ -60,7 +60,7 @@ Train the below four classification models to identify the tribunal class.
 
 Below is the snapshot of the models in the Legal Custom Text application,
 
-![](./media/Classes.png)
+![](../media/Classes.png)
 
 Publish the application and score using the prediction end point. 
 
@@ -127,7 +127,7 @@ Sample output from the published application looks like,
 
 ### 2. Develop an Azure Cognitive Search Custom Skill for Pre-Processing
 
-Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](./ClauseExtraction.AzureFunction.Python).
+Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](../ClauseExtraction.AzureFunction.Python).
 
 This custom skill does OCR and also eliminates the header and footers from the documents.
 
