@@ -127,7 +127,7 @@ Sample output from the published application looks like,
 
 ### 2. Develop an Azure Cognitive Search Custom Skill for Pre-Processing
 
-Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](/ClauseExtraction.AzureFunction.Python).
+Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](./ClauseExtraction.AzureFunction.Python).
 
 This custom skill does OCR and also eliminates the header and footers from the documents.
 
