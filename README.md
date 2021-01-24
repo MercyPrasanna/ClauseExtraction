@@ -9,7 +9,7 @@ The solution highlights the usage of Custom Text for building claasification mod
 
 ![](/media/ModelDevelopmentCustomText.PNG?raw=true)
 
-As Custom Text requires txt documents for training the models, the [preprocessing code](/PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
+As Custom Text requires txt documents for training the models, the [preprocessing code](./PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
 
 ## Solution Architecture
 Azure Cognitive Search is used for orchestrating the extraction pipeline and storing the extracted results in Azure Cognitive Search Index/Knowledge Store for downstream use.
