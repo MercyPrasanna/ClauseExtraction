@@ -1,0 +1,66 @@
+{
+    "name" : "YOUR_INDEXER_NAME",
+    "dataSourceName" : "YOUR_DATASOURCE_NAME",
+    "targetIndexName" : "YOUR_INDEX_NAME",
+    "skillsetName" : "YOUR_SKILLSET_NAME",
+    "schedule" : { "interval" : "PT2H" },
+    "fieldMappings" : [
+        { "sourceFieldName" : "metadata_storage_path", "targetFieldName" : "file_url" },
+        { "sourceFieldName" : "metadata_storage_path", "targetFieldName" : "metadata_storage_path", "mappingFunction" : { "name" : "base64Encode" } },
+        { "sourceFieldName" : "metadata_storage_size", "targetFieldName" : "size" },
+        { "sourceFieldName" : "metadata_storage_last_modified", "targetFieldName" : "last_modified" },
+        { "sourceFieldName" : "metadata_storage_name", "targetFieldName" : "metadata_storage_name" },
+        { "sourceFieldName" : "content", "targetFieldName" : "content" }
+        
+    ],
+    "outputFieldMappings" : 
+    [
+        {
+            "sourceFieldName" : "/document/pages/*/persons_unique/*", 
+            "targetFieldName" : "persons"
+        },
+        {
+            "sourceFieldName" : "/document/pages/*/locations_unique/*", 
+            "targetFieldName" : "locations"
+        },                  
+        {
+            "sourceFieldName": "/document/class/*",
+            "targetFieldName": "class"
+        },
+        {
+            "sourceFieldName": "/document/jurisdiction_unique/*",
+            "targetFieldName": "jurisdiction"
+        },
+        {
+            "sourceFieldName": "/document/tribunal_category_unique/*",
+            "targetFieldName": "tribunal_category"
+        },
+        {
+            "sourceFieldName": "/document/date_of_hearing_unique/*",
+            "targetFieldName": "date_of_hearing"
+        },
+        {
+            "sourceFieldName": "/document/case/*/citation/*",
+            "targetFieldName": "citation"
+        },
+        {
+            "sourceFieldName": "/document/case/*/catch_words/*",
+            "targetFieldName": "catch_words"
+        },
+        {
+            "sourceFieldName": "/document/judge_unique/*",
+            "targetFieldName": "judge"
+        }
+          
+    ],
+   "parameters":
+    {
+        "maxFailedItems":-1,
+        "maxFailedItemsPerBatch":-1,
+        "configuration": 
+      {
+          "dataToExtract": "contentAndMetadata"
+      }
+    }
+      
+  }

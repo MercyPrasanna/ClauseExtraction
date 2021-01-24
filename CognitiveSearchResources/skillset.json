@@ -1,0 +1,247 @@
+{
+    "name":  "YOUR_SKILLSET_NAME",
+    "description": "Extract CustomText entities",
+    "skills": [
+        {
+            "@odata.type": "#Microsoft.Skills.Text.LanguageDetectionSkill",
+            "context": "/document",
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/content"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "languageCode",
+                    "targetName": "languageCode"
+                }
+            ]
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Text.SplitSkill",
+            "textSplitMode": "pages",
+            "maximumPageLength": 25000,
+            "context": "/document",
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/content"
+                },
+                {
+                    "name": "languageCode",
+                    "source": "/document/languageCode"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "textItems",
+                    "targetName": "pages"
+                }
+            ]
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Text.EntityRecognitionSkill",
+            "categories": [
+                "Location",
+                "Person"
+            ],
+            "defaultLanguageCode": "en",
+            "includeTypelessEntities": false,
+            "context": "/document/pages/*",
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/pages/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "persons",
+                    "targetName": "persons"
+                },
+                {
+                    "name": "locations",
+                    "targetName": "locations"
+                }
+            ]
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Extract entities from Custom Text Model",
+            "description": "Calls an Azure function, which in turn calls Custom Text prediction endpoint",
+            "context": "/document",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT230S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/content"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "class",
+                    "targetName": "class"
+                },
+                {
+                    "name": "case",
+                    "targetName": "case"
+                }
+            ],
+            "httpHeaders": null
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Persons Duplicates Removal",
+            "description": "EX: To remove duplicates from organizations detected with Entity Extraction processing per page, but saving all of the organizations in /document/organizations.",
+            "context": "/document/pages/*",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT30S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/pages/*/persons/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "text",
+                    "targetName": "persons_unique"
+                }
+            ],
+            "httpHeaders": {}
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Locations Duplicates Removal",
+            "description": "EX: To remove duplicates from organizations detected with Entity Extraction processing per page, but saving all of the organizations in /document/organizations.",
+            "context": "/document/pages/*",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT30S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/pages/*/locations/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "text",
+                    "targetName": "locations_unique"
+                }
+            ],
+            "httpHeaders": {}
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Tribunal Duplicates Removal",
+            "description": "EX: To remove duplicates from organizations detected with Entity Extraction processing per page, but saving all of the organizations in /document/organizations.",
+            "context": "/document",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT30S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/case/*/tribunal_category/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "text",
+                    "targetName": "tribunal_category_unique"
+                }
+            ],
+            "httpHeaders": {}
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Judge Duplicates Removal",
+            "description": "EX: To remove duplicates from organizations detected with Entity Extraction processing per page, but saving all of the organizations in /document/organizations.",
+            "context": "/document",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT30S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/case/*/judge/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "text",
+                    "targetName": "judge_unique"
+                }
+            ],
+            "httpHeaders": {}
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Date of Hearing Duplicates Removal",
+            "description": "EX: To remove duplicates from organizations detected with Entity Extraction processing per page, but saving all of the organizations in /document/organizations.",
+            "context": "/document",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT30S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/case/*/date_of_hearing/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "text",
+                    "targetName": "date_of_hearing_unique"
+                }
+            ],
+            "httpHeaders": {}
+        },
+        {
+            "@odata.type": "#Microsoft.Skills.Custom.WebApiSkill",
+            "name": "Jurisdiction Duplicates Removal",
+            "description": "EX: To remove duplicates from organizations detected with Entity Extraction processing per page, but saving all of the organizations in /document/organizations.",
+            "context": "/document",
+            "uri": "YOUR_SKILL_URI",
+            "httpMethod": "POST",
+            "timeout": "PT30S",
+            "batchSize": 1,
+            "degreeOfParallelism": null,
+            "inputs": [
+                {
+                    "name": "text",
+                    "source": "/document/case/*/jurisdiction/*"
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "text",
+                    "targetName": "jurisdiction_unique"
+                }
+            ],
+            "httpHeaders": {}
+        }
+    ],
+    "cognitiveServices":  {
+        "@odata.type":  "#Microsoft.Azure.Search.CognitiveServicesByKey",
+        "description":  "",
+        "key":  "YOUR_COGNITIVE_SERVICES_KEY"
+    }
+}
