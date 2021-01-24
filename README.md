@@ -7,7 +7,7 @@ The solution described here demonstrate how organizations can use Azure cognitiv
 ## Model Development
 The solution highlights the usage of Custom Text for building claasification models for document classification and extractor models for entity/clause extraction from documents. Custom Text enables the development of hierachical entities and reuse of one model within another with an approach of machine teaching. Azure Cognitive Search is used to orchestrate the pipeline of calling these models and storing the results in a search index or knowledge store.
 
-![](../media/ModelDevelopmentCustomText.png)
+![](media/ModelDevelopmentCustomText.png)
 
 As Custom Text requires txt documents for training the models, the [preprocessing code](../PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
 
