@@ -18,7 +18,7 @@ The Custom Text model for entity extraction and the classification models are in
 
 Alternatively, the document classification model can be developed using Automated Machine Learning and integrated using the [Azure Machine Learning Skill](https://docs.microsoft.com/en-us/azure/search/cognitive-search-aml-skill) in Azure Cognitive Search.
 
-![](../media/SolutionArchitecture.png)
+![SolutionArchitecture](../media/SolutionArchitecture.png)
 
 ### Process Flow
 Azure Cognitive Search Indexer will trigger the AI Pipeline that will,
