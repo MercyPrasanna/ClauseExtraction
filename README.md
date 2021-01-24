@@ -28,7 +28,7 @@ Azure Cognitive Search Indexer will trigger the AI Pipeline that will,
 * Execute a custom skill for post processing to remove duplicate entities.
 * The extracted results are stored for exploration in the Azure Cognitive Search Index.
 
-![](https://github.com/MercyPrasanna/ClauseExtraction/tree/master/media/CognitiveSearchPipeline.png)
+![](/media/CognitiveSearchPipeline.PNG)
 
 Custom Skills were deployed as an Azure Function and Integrated with Azure Cognitive Search.
 
@@ -50,7 +50,7 @@ Create the Custom Text application with the extractor and classification models.
 
 Sample extractor schema below,
 
-![](/media/Case.png?raw=true)
+![](/media/Case.PNG?raw=true)
 
 Train the below four classification models to identify the tribunal class.
 * discrimination
@@ -60,7 +60,7 @@ Train the below four classification models to identify the tribunal class.
 
 Below is the snapshot of the models in the Legal Custom Text application,
 
-![](/media/Classes.png?raw=true)
+![](/media/Classes.PNG?raw=true)
 
 Publish the application and score using the prediction end point. 
 
