@@ -9,7 +9,7 @@ The solution highlights the usage of Custom Text for building claasification mod
 
 ![](/media/ModelDevelopmentCustomText.PNG?raw=true)
 
-As Custom Text requires txt documents for training the models, the [preprocessing code](../PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
+As Custom Text requires txt documents for training the models, the [preprocessing code](/PreProcessing.AzureFunction.Python) can be used for OCR and also to remove the headers and footers.
 
 ## Solution Architecture
 Azure Cognitive Search is used for orchestrating the extraction pipeline and storing the extracted results in Azure Cognitive Search Index/Knowledge Store for downstream use.
@@ -127,13 +127,13 @@ Sample output from the published application looks like,
 
 ### 2. Develop an Azure Cognitive Search Custom Skill for Pre-Processing
 
-Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](../ClauseExtraction.AzureFunction.Python).
+Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](/ClauseExtraction.AzureFunction.Python).
 
 This custom skill does OCR and also eliminates the header and footers from the documents.
 
 ### 3. Develop an Azure Cognitive Search Custom Skill for Clause Extraction and Document Classification
 
-Deploy the Python Custom Skill as an Azure Function App using the [code](./ClauseExtraction.AzureFunction.Python).
+Deploy the Python Custom Skill as an Azure Function App using the [code](/ClauseExtraction.AzureFunction.Python).
 
 #### App Settings to configure
 Modify your local.setting.json to point to your LUIS Application, Classifiers and Extractors:
@@ -287,7 +287,7 @@ This skill integrates to the Azure Cognitive Search pipeline as shown below. In 
 
 ### 5. Index the documents with an Azure Cognitive Search Pipeline
 
-Deploy the Azure cognitive search pipeline and run the indexer using the resources in [this](./CognitiveSearchResources) folder
+Deploy the Azure cognitive search pipeline and run the indexer using the resources in [this](/CognitiveSearchResources) folder
 
 a. Replace the below variables in the datasource.json with the storage container details that hosts your documents. 
 
