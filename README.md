@@ -5,7 +5,7 @@ Many a times it is required to classify documents or extract custom entities of 
 The solution described here demonstrate how organizations can use Azure cognitive services to completely automate document classification and clause extraction process.
 
 ## Model Development
-The solution highlights the usage of Custom Text for building claasification models for document classification and extractor models for entity/clause extraction from documents. Custom Text enables the development of hierachical entities and reuse of one model within another with an approach of machine teaching. Azure Cognitive Search is used to orchestrate the pipeline of calling these models and storing the results in a search index or knowledge store.
+The solution highlights the usage of Custom Text for building classification models for document classification and extractor models for entity/clause extraction from documents. Custom Text enables the development of hierachical entities and reuse of one model within another with an approach of machine teaching. Azure Cognitive Search is used to orchestrate the pipeline of calling these models and storing the results in a search index or knowledge store.
 
 ![](/media/ModelDevelopmentCustomText.PNG?raw=true)
 
