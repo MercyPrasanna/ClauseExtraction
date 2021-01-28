@@ -46,24 +46,25 @@ Specifically below tribunal categories were used for the classification models,
 ## Steps
 ### 1. Data Pre-Processing
 
-Custom Text service accepts inputs only as text files. Data availalble in scanned images and pdf's are required to be converted to text format. Additionally, many docuemnts have header's & footer's which introduces noise when converted to text format. 
+Custom Text service accepts inputs only as text files. Data availalble in scanned images and pdf's are required to be converted to text format. Additionally, many documents have header's & footer's which introduces noise when converted to text format. 
 
 This module prepares data for Custom Text application.
 ![](/media/DataPrepFlow.PNG?raw=true)
 
-* Converts images & pdf documents to text format using ['Azure Read API'](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text)
-* Fuzzy text match to identify header and footer information
+* Converts images & pdf documents to text format using [Azure Read API](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text)
+* Fuzzy text match to identify header/footer text & delete it
 * Save document as text file
 
-###### Configuration details
-Azure Read API credentials should be provided in ['config.json'](./DataPrep.Python/config.json)
-Data preperation parameters can be configured in ['DataPrep.ipynb'](./DataPrep.Python/DataPrep.ipynb) file
-* TOP_LINES : count of line to look for header and footer (e.g. TOP_LINES = 5, code will look for first 5 lines for header and last 5 lines for footer)
-* kgram (optional): consecutive characters to be considered for feature generation
-* src_dir : source directiory where raw data (pdf / images) exist
-* dst_dir : destination directory where processed text files are saved
+#### Configure & Run
+* Azure Read API credentials should be provided in [config.json](./DataPrep.Python/config.json)
+* Data preperation parameters can be configured in [DataPrep.ipynb](./DataPrep.Python/DataPrep.ipynb) file
+  * TOP_LINES : count of line to look for header and footer (e.g. TOP_LINES = 5, code will look for first 5 lines for header and last 5 lines for footer)
+  * kgram (optional): consecutive characters to be considered for feature generation
+  * src_dir : source directiory where raw data (pdf / images) exist
+  * dst_dir : destination directory where processed text files are saved
+* Execute [Dataprep.ipynb](./DataPrep.Python/DataPrep.ipynb) file to start Data Preparation
 
-Sample results
+#### Sample results
 ![](/media/dataPrepOutput.png?raw=true)
 
 ### 2. Develop the Custom Text Entity Extractor and Classification Models
