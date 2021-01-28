@@ -1,0 +1,462 @@
+ACT CIVIL & ADMINISTRATIVE TRIBUNAL
+ILLAWARRA RETIREMENT TRUST ACN 000 726 536 v
+COMMISSIONER FOR ACT REVENUE (Administrative Review)
+[2020] ACAT 103
+AT 52/2020
+Catchwords: ADMINISTRATIVE REVIEW – subpoenas – application for
+subpoenas to be set aside – whether documents required to be
++LIIAustLII AustLII AustLII Aust! produced under subpoenas lack a legitimate forensic purpose –
+whether subpoenas are a ‘fishing expedition’ – whether
+subpoenas are oppressive in the circumstances – scope of
+subpoenas in the Tribunal – test of relevance – documents which
+“on the cards” will materially assist – where subpoenas in the
+Tribunal can act as a de facto discovery process pursuant to
+objects of the ACAT Act
+Legislation cited: ACT Civil and Administrative Tribunal Act 2008 ss 6, 7, 23,
+56
+Rates Act 2004 s 8
+Taxation Administration Act 1999 s 99
+Subordinate
+Legislation cited: ACT Civil and Administrative Tribunal Procedures Rules
+2020 r 130
+Must!Il Aust !!! AustLII AustLi
+Cases cited: Alister v R (“Hilton Bombing case”) [1984] HCA 85
+Canberra Cleaners Pty Limited & Ors v Commissioner for
+ACT Revenue [2017] ACTSC 197
+Drake and Minister for Immigration and Ethnic Affairs (No 2)
+(1979) 2 ALD 634
+FANDS (ACT) Pty Ltd v Commissioner for ACT Revenue
+[2017] ACAT 65
+Holloway v State of Victoria [2015] VSC 526
+Instyle Estate Agents Gungahlin Pty Ltd v Hambrook [2020]
+ACTSC 293
+Investments and Minister for Planning [2003] ACTAAT 29
+Peter Kohnsdorf Golf Distributors Pty Ltd & Liangis
+Investments Pty Ltd and Minister for Planning [2003]
+ACTAAT 29
+R v Robertson [1983] 21 NTR 11
+R v Saleam (1989) 16 NSWLR 14
+R v Saleam [1999] NSWCCA 86
+Santos Ltd & Ors v Pipelines Authority of SA [1996] SASC
+5628
+State of Victoria v Lane & Anor [2012] VSC 328
+Young Men’s Christian Association Inc & ACT Planning and
+Land Authority & Ors [2011] ACAT 78
+List of
+Texts/Papers cited: Australian Government, Attorney-General’s Department
+Access to Justice Taskforce, A Strategic Framework for
+Access to Justice in the Federal Civil Justice System (2009)
+Tribunal: Presidential Member H Robinson
++LIIAustLII AustLII AustLII Aust!
+Date of Orders: 20 November 2020
+Date of Reasons for Decision: 7 December 2020
+Must!Il Aust !!! AustLII AustLi
+AUSTRALIAN CAPITAL TERRITORY
+CIVIL & ADMINISTRATIVE TRIBUNAL AT 52/2020
+BETWEEN:
+ILLAWARRA RETIREMENT TRUST ACN 000 726 536
+Applicant
+AND:
+COMMISSIONER FOR ACT REVENUE
+Respondent
++LIIAustLII AustLII AustLII Aust!
+TRIBUNAL: Presidential Member H Robinson
+DATE: 20 November 2020
+ORDER
+The Tribunal orders that:
+1. The Interim Application is dismissed.
+2. Immediate access to both parties to inspect, uplift, copy and photocopy
+the material produced under subpoenas (b) and (c).
+Must!Il Aust !!! AustLII AustLi
+3. The Return of Subpoena for subpoena (a) is adjourned to 10:00am on
+Tuesday 8 December 2020.
+4. The matter is listed for further directions at 9:00am on Monday 14
+December 2020.
+5. The directions 3 to 9 made on 21 August 2020 are vacated.
+…………………Signed……………..
+Presidential Member H Robinson
+REASONS FOR DECISION
+1. By way of an interim application, the respondent sought to set aside and/or
+object to production and inspection of documents produced under subpoenas
+issued to three ACT Government entities, on the grounds that they have no
+legitimate forensic purpose, are a ‘fishing expedition’ and that they are
+oppressive.
+2. I delivered an oral decision on 20 November 2020. These are my reasons.
+The subpoenas
+3. On 9 October 2020 the applicant requested three subpoenas be issued by the
+Tribunal to:
++LIIAustLII AustLII AustLII Aust!
+(a) The Proper Officer, Commissioner for Revenue (the Commissioner);
+(b) The Proper Officer, Access Canberra Land Titles Office (LTO); and
+(c) The Proper Officer, ACT Environment, Planning and Sustainable
+Development Directorate (EPSDD).
+4. The subpoenas as issued were very broad in scope and sought a range of
+documents relating to the ownership, development and rates assessments of a
+number of properties (the specified properties) used for retirement villages or
+aged care facilities.
+5. By the time of the hearing of the interim application the scope of the subpoena
+to the Commissioner had been narrowed considerably, and the applicant only Must!Il Aust !!! AustLII AustLi
+pressed the subpoenas in relation to the following documents:
+(a) Pursuant to subpoena (a), issued to the Commissioner, in relation to the
+list of specified properties:
+(i) the conveyance duty assessment notice (and any applicable re-
+assessment notices) issued to the current lessee;
+(ii) all rates assessment notices issued to the current Crown lessee for
+the period 1 July 2017 to date; and
+(iii) any applicable rates exemption notices issued to the current Crown
+lessee.
+(b) In relation to subpoena (b), issued to the LTO, in relation to a specified
+list of properties:
+(i) the current Crown lease.
+(ii) the most recent contract for sale.
+(iii) the most recent registered transfer form,
+(iv) any development applications submitted by the current Crown
+lessee.
+(c) In relation to subpoena (c), issued to EPSDD in relation to a list of
+specified properties:
++LIIAustLII AustLII AustLII Aust! (i) the current Crown lease.
+(ii) the most recent contract for sale.
+(iii) the most recent registered transfer form,
+(iv) any development applications submitted by the current Crown
+lessee.
+6. The respondent did not seek to set aside or object to access to documents
+produced under subpoena (b) and (c) so far as they related to items (d), i.e. the
+development applications submitted by the current Crown lessee in relation to
+the subject properties.
+Background
+7. By way of these proceedings the applicant, Illawarra Retirement Trust, seeks a
+Must!Il Aust !!! AustLII AustLi
+review of a decision made by the respondent to disallow an objection (the
+objection) to a rates assessment notice dated 20 February 2020 for a property
+(the subject property) it owns at Block 1 Section 72 Denman Prospect.
+8. The applicant contends that the respondent erred in disallowing its objection
+because the property is not rateable for the purposes of the Rates Act 2004
+(Rates Act) as it is land that is leased to a charitable organisation and used
+exclusively for education, benevolent or charitable purposes, bringing it within
+an exception in section 8(1)(b)(iii) of the Rates Act.
+9. Section 8(1)(b)(iii) of the Rates Act provides that:
+Land leased to charitable organisations and used exclusively for
+religious, educational, benevolent or charitable purposes.
+10. The only matter in dispute in the substantive proceedings is whether the subject
+property is used for charitable purposes, and in particular whether the land will
+be:
+(a) “used” for a charitable purpose; and
+(b) used “exclusively” for a charitable purpose.
+11. The applicant intends to develop the land to be used for a 130 unit retirement
+village and 90 aged care units. However, it also intends the development to
+include +LIIAustLII AustLII AustLII Aust! a childcare centre, café/restaurant, hairdresser, beautician and
+physiotherapist (the ancillary uses).
+12. The respondent’s decision to disallow the objection is partly premised on the
+determination that the ancillary uses are commercial in nature, and accordingly
+the premises is not used exclusively for charitable purposes.
+Legitimate forensic purpose
+13. The Tribunal can set aside a subpoena that has no legitimate forensic purpose.
+14. Whether a subpoena has a legitimate forensic purpose is determined by a two
+stage test:1
+(a) Has the applicant identified a legitimate forensic purpose for which access
+is sought? Must!Il Aust !!! AustLII AustLi
+(b) Has the applicant established that it is ‘on the cards’ that the documents
+sought will materially assist his or her case?
+15. The first stage of the test requires the party seeking the subpoena to expressly
+state its purpose. In this case, the applicant has identified two purposes.
+16. First, the applicant says, the subpoenas will demonstrate what kind of services
+are presently being offered in comparable facilities, with a view to establishing
+what is an ‘ancillary use’ linked to charitable use of the property. Evidence
+1 Alister v R [1984] HCA 85; R v Saleam (1989) 16 NSWLR 14; R v Saleam [1999] NSWCCA 86 at
+[11] (Spigelman CJ, Simpson and Studdert JJ agreeing)
+showing that other, similar establishments provide similar services may assist in
+proving that the services are ‘ancillary’. Senior Counsel for the applicant
+submitted that:
+…the use of land also includes a certain penumbra of ancillary uses. And
+ancillary uses are treated as not different uses, but are in fact part of the
+substantive use for which the property is devoted. Therefore, to use a
+common example, if you happen to have a fish and chip shop and put a
+pinball machine in the fish and chip shop, you don't either convert the
+entire fish and chip shop, or for that matter even the area upon which the
+pinball machine stands, into a place of entertainment by virtue of
+including it in the fish and chip shop. 2
+17. Senior Counsel for the applicant referred to two previous cases of the Tribunal,
++LIIAustLII AustLII AustLII Aust! Peter Kohnsdorf Golf Distributors Pty Ltd & Liangis Investments Pty Ltd and
+Minister for Planning [2003] ACTAAT 29 (Kohnsdorf) and Young Men’s
+Christian Association Inc & ACT Planning and Land Authority & Ors [2011]
+ACAT 78 (YMCA v ACTPLA) as providing support for the contention that
+ancillary use is regarded as being part of the substantive use, rather than a
+separate use. In Kohnsdorf, the Tribunal looked to what activities were being
+undertaken in other golf establishments to determine whether these activities
+were treated as ancillary,3 observing at paragraph 67 of the decision that:
+…the nature of the activities undertaken in the pro shop/showroom is
+closely related to the dominant use is apparent not only from the nature of
+the goods sold but also from the fact that all of the golf courses in
+Canberra have a facility for selling the same products.
+18. The second purpose was to address the question of consistency. This argument Must!Il Aust !!! AustLII AustLi
+took two forms. First, at least in its written submissions, the respondent
+contended that the subpoenaed documents may demonstrate the consistency or
+arbitrariness of the respondent’s decision making. In support of those
+submissions, the applicant cites the observations of Brennan J in Drake and
+Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 634 that “one
+of the factors to be considered in arriving at the preferable decision in a
+particular case is its consistency with other decisions in comparable cases.” 4
+The applicant also notes section 6(e) and (f) of the ACT Civil and
+2 Transcript of proceedings 12 November 2020 page 7, lines 6-10
+3 Kohnsdorf at [60] to [67]
+4 Drake and Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 634, 643
+Administrative Tribunal Act 2008, which states that the objects of the Tribunal
+include to enhance the quality of and encourage compliance with decision
+making under legislation.
+19. A second aspect of the consistency argument was advanced in oral argument at
+the hearing:
+…we do not yet know what evidence may be called by the Commissioner
+and it is at least possible that somebody will say that this is not
+appropriate to be regarded as charitable or for this reason there is too
+much of this, what might be viewed as or asserted to being, extraneous
+activity and in the cross-examination of such a person it may well be that
+what the Commissioner has done elsewhere may be relevant to the cross
+examination of that person.5
++LIIAustLII AustLII AustLII Aust!
+20. In other words, as well as consistency being relevant to the decision itself, it is
+contended that consistency may be “relevant to any evidence given by a
+particular witness.” 6
+21. In response to the application the respondent submitted that the questions in the
+substantive hearing turn exclusively on a legal construction of subsection
+8(1)(b)(iii) of the Rates Act. The proper construction of the Rates Act must be
+determined by reference to the text of the Act only, and evidence as to the
+application of the Rates Act to other retirement or aged care facilities is an
+irrelevant consideration. Counsel for the respondent submitted that:
+…as far as the Commissioner can identify, the purpose of the subpoena is
+not to produce material to assist the Tribunal to reach the correct and
+preferable decision in accordance with law…it is to assert the tribunal Must!Il Aust !!! AustLII AustLi
+should make a decision despite the meaning of the terms of the Act and the
+application of the facts of this case to the Act.7
+22. The respondent further says that statements as to the desirability of consistency
+in decision-making have no possible application in a case such as this, as they
+cannot negate the Tribunal’s statutory function to make the correct and
+preferable decision according to law. Consideration of whether the decision
+under review is consistent with other decisions would be in error.
+5 Transcript of proceedings 12 November 2020 page 9, lines 33-39
+6 Transcript of proceedings 12 November 2020 page 10, line 10
+7 Transcript or proceedings 12 November 2020 page 4, lines 21-28
+23. I agree with the respondent that this is not a matter where consistency, in the
+sense of consistent decision making, can play a role in determining whether the
+correct and preferable decision was made. Consistency would be a consideration
+were this matter to involve, for example, a review of an exercise involving
+multiple decision makers and broad discretion, but this is not such a case.
+24. However, it is possible that evidence as to consistency of decisions may be
+relevant in other ways. Assuming that evidence demonstrating what kinds of
+activities are typically undertaken in nursing homes is relevant to the
+substantive matter, evidence about the circumstances where those activities
+have been treated differently by decision makers in relation to rates and duties
++LIIAustLII AustLII AustLII Aust! may show what, if anything, has changed in the industry, or provide a basis for
+cross examination on related questions about what is an ancillary use.
+25. I do not need to be satisfied of the consistency argument, however. I am
+satisfied that there is a legitimate forensic purpose in identifying what activities
+are undertaken by other nursing homes and retirement villages in order to
+determine what activities may be ancillary to the charitable use of the land,
+consistent with the approach taken in in Kohnsdorf.
+26. Turning to the documents being sought, a subpoena has a legitimate forensic
+purpose if there is a reasonable possibility that the document sought will
+materially assist the party.8 Mere speculation that the documents would assist is
+not sufficient, as this would amount to ‘fishing’, and nor is mere relevance,9 but Must!Il Aust !!! AustLII AustLi
+I do not need to be satisfied that the documents will assist the applicant’s case,
+only that they may.10 This involves consideration of what the documents could
+add to the proceeding.
+27. In terms of the exploration of ancillary purposes, the development applications
+will doubtlessly be the most relevant. The respondent does not object to the
+production of those in relation to the specified properties.
+8 Alister v R [1984] HCA 85
+9 Alister v R [1984] HCA 85; State of Victoria (Department of Justice) v Lane & Anor [2012] VSC 328 at
+[19]-[20]; Holloway v State of Victoria [2015] VSC 526 at [51]
+10 Alister v R [1984] HCA 85
+28. I am satisfied that the Crown leases are relevant to determining whether services
+provided in other establishments are provided as ‘ancillary services’ or in
+accordance with broader purpose clauses. This question of whether property
+may be able to be used for multiple activities would be relevant were it to be
+contended that certain ‘ancillary’ activities undertaken on specified properties
+are merely alternative uses of the land, or that certain activities may not be
+charitable at all.
+29. The forensic purpose for which the other documents are sought under the
+subpoenas is more tenuous and involves a few jumps. However, I am satisfied
+rates assessment notices and exemption notices may (and I would not put it
++LIIAustLII AustLII AustLII Aust! higher than that) materially affect a question before the tribunal, being what
+could presently be considered an ancillary use. The documents may also be
+relevant to cross examination as to the differences between the services offered
+in different retirement villages or nursing homes over time.
+30. Having regard to these considerations, I am satisfied that the subpoenas serve a
+legitimate forensic purpose.
+‘Fishing’, de facto discovery and oppression
+31. The respondent submits that the subpoenas constitute a ‘fishing’ exercise, as
+they are intended not to obtain evidence, but to discover whether the applicant
+has a case at all – effectively, the applicant has asked for the subpoena to be
+issued in the hope of finding something relevant, rather than to obtain Must!Il Aust !!! AustLII AustLi
+documents or evidence that may ‘throw light’11 on an existing question.
+32. I am not satisfied that one can put the situation quite so broadly. The exercise is
+not a blind one, aimed at digging up a case. The applicant filed and relied on a
+statement filed by a solicitor, Ms Kosa, in which it had identified from publicly
+available resources what it understands to be the name, address, owner or
+developer and services provided at each retirement village in the ACT. For
+some properties the information is complete, in others it is sparse, the remainder
+fall in between. The respondent, EPSDD and the LTO have documents that may
+shed further light on these questions. Some of that information is available to
+11 Santos Ltd & Ors v Pipelines Authority of SA [1996] SASC 5628 at [53]
+the respondent, not to the applicant. Additionally, the evidence sought has now
+been narrowed and is well defined. If there is a degree of ‘fishing’, it amounts to
+fishing in a small pond as opposed to trawling the ocean.
+33. Still, there is some ‘fishing’. It is probably true that the applicant cannot know
+the strength of its case unless and until it obtains the documents sought.
+Additionally, some of the documents sought appear to relate mainly to assessing
+the respondent’s case, or perhaps at best to putting the parties on an even
+footing in terms of access to certain kinds of contextual information. Perhaps for
+this reason, the applicant appears to have made a concession that some of the
+documents sought may be more in the nature of discovery than the kind of
++LIIAustLII AustLII AustLII Aust! matter for which a subpoena would generally be used in a court or forum that
+had a discovery process, interrogatories or a notice to produce.
+34. Senior Counsel suggested that the absence of such procedures in the tribunal
+warrants a broader approach being taken to what can be sought under a
+subpoena.12 In support of this contention, he referred to the decision of
+President Neate AM in FANDS (ACT) Pty Ltd v Commissioner for ACAT
+Revenue [2017] ACAT 65, where it was acknowledged that:
+In the absence of a process for discovery of documents (as would apply in
+conventional litigation), parties before the Tribunal use subpoenas to
+obtain documents that are not provided otherwise (for example as part of
+the T documents).13
+35. The respondent urged the Tribunal to adopt a broader test of relevance, Must!Il Aust !!! AustLII AustLi
+consistent with this observation, being a decision of the Associate Justice of the
+ACT Supreme Court in Canberra Cleaners Pty Limited & Ors v Commissioner
+for ACT Revenue [2017] ACTSC 197 at [4]:
+The test for relevance of a subpoena is whether the production of
+documents would be reasonably likely to add in the end to the relevant
+evidence in the case, including apparent or adjectival relevance, in the
+sense that the documents could ‘possibly throw light on the issues in the
+main case’.
+12 Transcript of proceedings 12 November 2020 pages 10-11, lines 28-33
+13 FANDS (ACT) Pty Ltd v Commissioner for ACAT Revenue [2017] ACAT 65 at [45]
+36. Counsel for the Commissioner, however, rejected the contention that subpoenas
+should be used for purposes akin to discovery or interrogatories, submitting
+that:
+In relation to the test to be applied in the Tribunal, the fact that there is no
+discovery … this is a factor that weighs against a broader application of
+the test because subpoenas can’t be used to circumvent a limitation on the
+jurisdiction of the Tribunal. If the intention of the Act, and construed in
+line with its objects, in that there is not a general right to discovery,
+subpoenas can’t be used to circumvent that limitation.14
+37. The respondent also noted that in the more recent case of Instyle Estate Agents
+Gungahlin Pty Ltd v Hambrook [2020] ACTSC 293 at [22], McWilliam AsJ
+adopted the more traditional formulation of the test of relevance, although in
++LIIAustLII AustLII AustLII Aust!
+doing so her Honour noted that the test of relevance was low:
+When assessing what meets the threshold for relevance, although a mere
+‘fishing’ expedition is impermissible, it will be sufficient if it appears to be
+‘on the cards’ that the documents will materially assist the defence:
+Alister v R [1984] HCA 85; (1984) 154 CLR 404 at 414. The principle has
+been stated in different ways in numerous authorities, but from the above
+it can be seen that the threshold for relevance of the documents sought
+under a subpoena is low.
+38. Broadly, discovery is a process whereby the parties in a civil proceeding
+provide each other with a list of all the documents which are or have been in
+their control and which relate to any matter in question in the proceeding. It is
+intended to give the parties to a proceeding access to documents that may
+advance or rebut their case, to minimise surprise, and to promote settlement.
+Must!Il Aust !!! AustLII AustLi
+39. Discovery is common in civil litigation in courts, but despite the tribunal’s civil
+jurisdiction, neither the ACAT Act nor the ACT Civil and Administrative
+Tribunal Procedures Rules 2020 (the Rules) provide for it, nor for
+interrogatories or notices to produce. This is likely because the cost of
+discovery is often very high, and that cost is often disproportionate the utility
+of the documents discovered.15 The process, requiring affidavits, is also
+burdensome. The introduction of a routine discovery process would be
+14 Transcript of proceedings 12 November 2020 page 16, lines 34-40
+15 Australian Government, Attorney-General’s Department Access to Justice Taskforce, A
+Strategic Framework for Access to Justice in the Federal Civil Justice System (2009), Recommendation
+8.2.
+inconsistent with the tribunal’s stated objective that access to the tribunal is
+simple and inexpensive, for all people who need to deal with the tribuna l.16
+40. Even in courts, discovery is available far less frequently (if ever) in
+administrative review in any jurisdiction. There are alternative procedures built
+into the administrative review process in the Tribunal. Rule 130 of the Rules
+requires the respondent to prepare tribunal documents containing:
+…a copy of every document or part of a document in the respondent’s
+possession or control that the respondent considers to be relevant to the
+review of the decision by the tribunal (the tribunal documents).
+[emphasis in original]
+41. Where an applicant to a matter in the tribunal’s administrative review
++LIIAustLII AustLII AustLII Aust!
+jurisdiction considers the respondent to hold documents that are relevant, but
+have not been disclosed, then the usual course would be to seek orders from the
+tribunal for more complete tribunal documents. That was not done in this case,
+likely because the applicant does not consider them relevant.
+42. Notwithstanding the availability of tribunal documents, subpoenas are
+nonetheless regularly issued at the request of applicants in administrative review
+proceedings seeking additional documents from the respondent or another
+government entity. From a practical perspective, a subpoena is often the most
+efficient approach.
+43. Other options are also available. The tribunal has on occasion made interim
+orders under sections 23 and 56 of the ACAT Act requiring parties to produce Must!Il Aust !!! AustLII AustLi
+documents. Such orders are made sparingly, where it has considered it
+necessary or convenient, having regard to the tribunal’s obligation to conduct
+matters ensuring the procedures of the tribunal are as simple, quick,
+inexpensive and informal as is consistent with achieving justice. 17 Where
+made, such orders need not involve the affidavit process associated with
+discovery in other jurisdictions.
+44. As such, notwithstanding the absence of a formal process for discovery, there
+is nothing in the ACAT Act that suggests that the Tribunal is not intended to
+16 ACAT Act section 6(b)
+17 ACAT Act section 7(a)
+have document production powers, and indeed quite the opposite. The powers
+exist but are exercised more flexibly than the procedures in other forums, as is
+consistent with the objects of the ACAT Act.
+45. Consistent with the observations of the President in FANDS, in considering
+whether a subpoena is properly requested, and whether it is a mere ‘fishing’
+exercise, it is a relevant, contextual consideration that there is no discovery
+process, and that a subpoena is the only method by which the applicant can
+obtain documents that it contends may be relevant, but which are in the
+possession of the respondent, and which would be available to the respondent
+but not itself.
++LIIAustLII AustLII AustLII Aust!
+46. The key consideration in this case is whether it is at least “on the cards” that
+the evidence contained in the documents could materially assist. I am satisfied
+that they may shed light on what activities are ancillary to the use of land as a
+retirement village. I am satisfied that documents that shed light on the
+assessments of other properties may be relevant to considering whether similar
+operations are being conducted as ancillary to the retirement villages, or as
+separate commercial activities that benefit from co-location. The applicant has
+done what research it can, using publicly available information, and has
+articulated its case based on this information. The subpoena is not a mere
+fishing expedition.
+Oppression Must!Il Aust !!! AustLII AustLi
+47. The final objection to the subpoena is based on an argument of oppression. In
+some cases, the volume of material sought makes compliance with the subpoena
+oppressive. A subpoena may be oppressive when it requires the respondent to
+extensively examine their documents and determine whether there is anything
+that is relevant.18
+48. This argument had weight in relation to the subpoena to the Commissioner, as
+drafted. However, in the wake of the revised scope, the applicant conceded that
+this ground is now largely tied to the argument that the subpoenas were a
+‘fishing’ exercise. I am not satisfied that the evidence supports that any of the
+18 R v Robertson (1983) 21 NTR 11
+remaining searches are oppressive, although time for compliance with subpoena
+(a) will need to be extended.
+The Taxation Administration Act
+49. In its written submissions the respondent argued that the Commissioner is not
+compellable to provide the documents by reason of the operation of section 99
+of the Taxation Administration Act 1999. At hearing the respondent conceded
+that this argument would fall away were the Tribunal satisfied that the
+subpoenas served a legitimate forensic purpose. As the Tribunal is satisfied that
+the subpoenas have a legitimate forensic purpose, there is no prohibition on the
+production of the documents.
++LIIAustLII AustLII AustLII Aust!
+The Tribunal orders that:
+(a) The Interim Application is dismissed.
+(b) Immediate access to both parties to inspect, uplift, copy and photocopy
+the material produced under subpoenas (b) and (c).
+(c) The Return of Subpoena for subpoena (a) is adjourned to 10:00am on
+Tuesday 8 December 2020.
+(d) The matter is listed for further directions at 9:00am on Monday 14
+December 2020.
+(e) The directions 3 to 9 made on 21 August 2020 are vacated.
+Must!Il Aust !!! AustLII AustLi
+………………………………..
+Presidential Member H Robinson
+Date(s) of hearing 12 November 2020
+Counsel for the Applicant: Mr Walker SC
+Solicitors for the Applicant: Minter Ellison
+Counsel for the Respondent: Mr Nigel Oram
+Solicitors for the Respondent: ACT Government Solicitor

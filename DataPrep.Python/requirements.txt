@@ -1,0 +1,8 @@
+# these python libraries are required for this section
+strsim
+requests
+pandas
+os
+sys
+math
+json

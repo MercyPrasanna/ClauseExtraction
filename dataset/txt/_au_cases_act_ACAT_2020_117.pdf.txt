@@ -1,0 +1,381 @@
+ACT CIVIL & ADMINISTRATIVE TRIBUNAL
+GRANTOR RT535 v OCCUPANT RT535 (Residential Tenancies)
+[2020] ACAT 117
+RT 535/2020
+Catchwords: RESIDENTIAL TENANACIES – termination and possession
+order – termination under section 51 of the Residential
+Tenancies Act 1997 – serious or continuous interference with
+the quiet enjoyment of nearby premises – intention or
++LIIAustLII AustLII AustLII Aust! recklessness – capacity – meaning of ‘intentional’ or
+‘recklessly’ – statutory interpretation – where tenant lacks
+capacity to form intent or recklessness as to the consequences of
+their actions – application dismissed
+Legislation cited: Legislation Act 2001 ss 138, 139
+Residential Tenancies Act 1997 s 51; standard terms 70
+Residential Tenancies Amendment Act 2005
+Cases cited: Commissioner for Social Housing v CC [2017] ACAT 17
+Faull v Commissioner for Social Housing for the ACT [2013]
+ACTSC 121
+General Steel Industries Inc v Commissioner for Railways
+(NSW) (1964) 112 CLR 125
+Occupant RT391 v Grantor RT391 [2020] ACAT 43
+Occupant RT391 v Grantor RT391 (No 2) [2020] ACAT 59
+Must!Il Aust !!! AustLII AustLi
+Tribunal: Presidential Member H Robinson
+Date of Orders: 18 September 2020
+Date of Reasons for Decision: 22 December 2020
+AUSTRALIAN CAPITAL TERRITORY )
+CIVIL & ADMINISTRATIVE TRIBUNAL ) RT 535/2020
+BETWEEN:
+GRANTOR RT535
+Applicant
+AND:
+OCCUPANT RT535
+Respondent
++LIIAustLII AustLII AustLII Aust!
+TRIBUNAL: Senior Member H Robinson
+DATE: 18 September 2020
+ORDER
+The Tribunal orders that:
+1. The application is dismissed.
+………………Signed……………..
+Senior Member H Robinson
+Must!Il Aust !!! AustLII AustLi
+REASONS FOR DECISION
+1. By way of this application, the lessor sought termination of a residential tenancy
+agreement under section 51(d) of the Residential Tenancies Act 1997 (RT Act).
+Section 51 provides:
+On application by a lessor, the ACAT may make a termination and
+possession order effective immediately if satisfied that the tenant has
+intentionally or recklessly caused or allowed, or is likely to cause or
+allow—
+(a) serious damage to the premises or to other property of the lessor; or
+(b) if the lessor is an individual—injury to the lessor or a member of the
+lessor’s family; or
++LIIAustLII AustLII AustLII Aust! (c) corporation or a member of a representative’s family; or if the lessor is a corporation—injury to a representative of the
+(d) serious or continuous interference with the quiet enjoyment of
+nearby premises by an occupier of the premises.
+2. The question in this case was whether the Tribunal can terminate a residential
+tenancy agreement under section 51(d) of the RT Act in circumstances where a
+tenant has limited or no capacity to understand the consequences of his actions.
+3. I delivered my decision in this matter 18 September 2020 and advised the
+parties that I would publish reasons later. These are my reasons.
+Damage, injury or intention to damage or injure
+4. Section 51 provides for urgent termination of a residential tenancy agreement
+where the Tribunal is satisfied that the tenant has intentionally or recklessly Must!Il Aust !!! AustLII AustLi
+caused or allowed, or is likely to cause or allow, a serious or continuous
+interference with the quiet enjoyment of nearby premises by an occupier of the
+premises. Unlike most other grounds for termination set out in the RT Act, it
+does not require that the lessor serve notices on the tenant, or that the tenant be
+given an opportunity to remedy their behaviour.
+Background
+5. The background to this matter is set out in the Tribunal’s previous decisions in
+Occupant RT391 v Grantor RT391 [2020] ACAT 43 and Occupant RT391 v
+Grantor RT391 (No 2) [2020] ACAT 59. There is no need to repeat the full
+history here.
+6. In summary, the applicant lessor is a community organisation that provides
+various forms of accommodation to vulnerable persons. The respondent tenant
+is one such person. He has severe and complex disabilities, requires full time
+care and has no capacity to make decisions about that care. He lives in a group
+home (the premises) under a residential tenancy agreement with the applicant.
+He is one of several persons residing at the premises with similarly complex
+needs.
+7. It was alleged by the applicant that the tenant’s conduct had caused a nuisance
+to the other tenants, or had interfered with their quiet enjoyment of the premises.
+These allegations have not yet been tested in the Tribunal.
++LIIAustLII AustLII AustLII Aust!
+8. The lessor was concerned for the welfare of the other tenants and sought to
+terminate the tenancy with the respondent and move him to another property.
+9. The tenant’s guardian, acting on his behalf, opposed any proposal to move him.
+The tenant’s representatives sought to have the application dismissed on a
+summary basis as the tenant’s mental capacity meant he could not form the
+necessary intention or recklessness to satisfy the requirements of section 51(d).
+The lessor’s substantive case
+10. The lessor put its case under section 51(d) of the RT Act on two basis:
+(a) That the tenant recklessly caused or allowed serious or continuous
+interference with the quiet enjoyment of nearby premises by an occupier
+Must!Il Aust !!! AustLII AustLi
+of those premises. This ground relies on past acts (the past acts ground).
+(b) That the tenant is likely to cause or allow serious or continuous
+interference with the quiet enjoyment of nearby premises by an occupier
+of the premises. This ground relies on future risks, as evidenced by a
+pattern of past acts (the future risks ground).
+11. The parties agreed that the “intention or recklessness” required by the
+provisions is intention or recklessness in relation to the outcome of the actions –
+which in this case meant an intention to engage in the actions constituting the
+alleged interference with the quiet enjoyment of the other tenants.
+12. The preliminary questions before the Tribunal were:
+(a) whether a provision that requires ‘intention’ or ‘recklessness’ can ground
+an eviction when the tenant is under a legal disability and lacks the
+capacity to make decisions about his care; and
+(b) whether section 51(d) of the RT Act requires intention or recklessness, or
+whether a mere likelihood of serious or continual interference with quiet
+enjoyment is sufficient.
+The tenant’s strike out application
+13. In any summary dismissal or strikeout application, the onus is on the party
+making the application to establish that there is no reasonable cause of action or
+that the proceedings are doomed to fail e.g. General Steel Industries Inc v
++LIIAustLII AustLII AustLII Aust! Commissioner for Railways (NSW) (1964) 112 CLR 125 at 128–129.
+14. The tenant’s position was that the Tribunal may only make an order under
+section 51 of the RT Act if it can make a specific finding that there was
+intention or recklessness as to the outcome of a particular action. This is a
+question of jurisdictional fact that must be established prior to the making of
+any order. If it cannot be established, the Tribunal cannot proceed to determine
+the matter, and the proceeding must fail.
+15. In support of this contention, the tenant relied on the decision of Justice
+Refshauge in the ACT Supreme Court case of Faull v Commissioner for Social
+Housing for the ACT [2013] ACTSC 121 (Faull).
+Must!Il Aust !!! AustLII AustLi
+16. Similarly to the present case, Faull involved an application under section 51 to
+evict a tenant who was allegedly causing a nuisance to his neighbours.
+However, the tenant in that case had an alcohol-related mental health condition
+that may have affected his capacity to form an intention to act. The Tribunal,
+being satisfied that the tenant had caused a nuisance to the neighbours, granted a
+termination and possession order under section 51 of the RT Act. The tenant
+appealed. One of the questions in the appeal was whether the tenant had the
+capacity to act intentionally or with recklessness.
+17. In considering the appeal, Justice Refshauge observed that:
+The RT Tribunal could only make the termination order if satisfied that
+[the tenant] intentionally or recklessly caused or allowed the outcomes set
+out in 51(c) and (d) of the RT Act. This is a jurisdictional fact.
+…The issue here is whether the RT Tribunal was actually satisfied that Mr
+Faull intentionally or recklessly caused or permitted the outcomes set out
+in s 51(c) and (d) of the RT Act. That involves a consideration of not just
+whether the actions of Mr Faull were voluntary but whether he intended
+or had foresight that his actions would bring about those outcomes. This
+is, as the Court of Appeal said in Crook v Commissioner, Trading and
+Tenancy Tribunal of New South Wales at 311; [39], “a difficult
+question”. It depended not merely on the voluntariness of Mr Faull’s
+actions, but also his state of mind as to the specific outcomes at the time.
+In this case, his intoxication was a very relevant factor, not only for
+voluntariness where the issue was expressly addressed by [counsel for the
+lessor] but for whether he was aware of the consequences of his actions at
++LIIAustLII AustLII AustLII Aust! the time he did them in the specific ways set out in the section, and either
+intended them or proceeded with foresight nevertheless.
+18. Significantly, his Honour determined that, in order for section 51 of the RT Act
+to be available, the tenant must be “ of the consequences of his actions
+at the time he did them in the specific ways set out in the section, and either
+intended them or proceeded with foresight nevertheless.” His Honour
+determined that the Tribunal had not considered this question, and ultimately
+remitted the matter to the Tribunal to make findings about capacity.
+19. In the present case, that there was no dispute or doubt about the tenant’s
+capacity. The lessor accepted that the tenant “lacks capacity” in relation to
+nearly all decision making. Moreover, the only pertinent evidence before the
+Tribunal as to capacity was the opinion of the tenant’s psychiatrist, a specialist Must!Il Aust !!! AustLII AustLi
+in intellectual disabilities, who opined that the tenant:
+…does not have any decision-making capacity due to his intellectual
+disability … nor has the capacity to weigh up consequences of any
+untoward behaviour.
+20. Faull, as a decision of the ACT Supreme Court, is binding upon this Tribunal.
+Accordingly, the tenant’s representatives submitted, to the extent that the
+application relies on intention or recklessness as to the consequences of an
+action, and the ‘past act ground’ must fail.
+21. The tenant’s representatives further submitted that the same requirements for
+intention or recklessness applied no matter whether the actions were past or
+future. In any case, the evidence before the Tribunal relating to past events and
+circumstances was outdated and historical, and there was no evidence upon
+which the Tribunal on could be satisfied that the tenant was “likely to cause or
+allow” damage or breach of quiet enjoyment in the future.
+The lessor’s response
+22. In relation to the ‘past acts ground’, the lessor acknowledged the decision of the
+Supreme Court in Faull, but submitted that the circumstances under which the
+matter came before the Tribunal meant that decision was distinguishable and
+was in any case obiter and therefore not binding on the Tribunal.
+23. +LIIAustLII AustLII AustLII Aust! The lessor referred instead to the decision of the Commissioner for Social
+Housing v CC [2017] ACAT 17 (CC):
+The tenant relied upon a number of authorities from the criminal law
+concerning ‘intentionality’. It is hard to know just how relevant criminal
+authorities are in the present civil context. For present purpose the
+Tribunal intends to follow the lead of the Appeal Tribunal of the New
+South Wales Civil and Administrative Tribunal in Cure v Bridge Housing
+Ltd [2014] NSWCATAP 80. The Appeal Tribunal took the view that
+intentionality was made out where the tenant deliberately undertook some
+action where it was apparent to the tenant that some damage would
+probably occur as a result of those actions.1
+24. While the lessor accepted (for the purposes of this case) that the tenant could
+not make decisions about his care, the lessor submitted that this did not
+necessarily mean that he could not be reckless as to the actions that cause that
+nuisance. The lessor suggested that striking out the proceedings on this basis Must!Il Aust !!! AustLII AustLi
+was premature, because further evidence may substantiate the tenant’s capacity
+to form the intention to engage in reckless actions that result in a nuisance.
+25. In relation to the ‘future acts ground’ the lessor argued that no intention was
+necessary, all that was required was that the tenant be “likely to cause”
+interference with the quiet enjoyment of neighbouring occupants. In this regard,
+the lessor submitted that:
+…on the ordinary reading of the section “is likely to cause or allow”
+stands separately from the intention or recklessness requirements, so that
+1 At [62]
+if the if the tenant is “likely to” cause or allow the damage, injury or
+breach of quiet enjoyment, there is no fault element.
+The Supreme Court in Faull did not disagree with this interpretation (see
+paragraph 130 of the decision).
+The Applicant submits that, if, on the evidence, the tenant is likely to cause
+serious or continuous interference with the quiet enjoyment of other
+residents, this ground is made out, even if the tenant does not act
+intentionally or recklessly.
+Such an interpretation is consistent with the purpose of the section to
+allow termination is [sic] urgent circumstances where there is a risk to
+neighbouring occupants (in this case fellow residents).2
+26. The reference to Faull at [130] was, the lessor submitted, only relevant in
++LIIAustLII AustLII AustLII Aust! relation to past conduct, not future conduct. The lessor submitted that:
+The jurisdictional fact is that, in order for the RT Tribunal to exercise a
+power to make a termination and possession order effective immediately
+under s 51 of the RT Act, the RT Tribunal must “be satisfied that the
+tenant has intentionally or recklessly caused or allowed, or is likely to
+cause or allow” one of the four stated matters in the paragraphs to the
+section. The reference in the section to “likely to cause or allow” is not
+relevant; the Commissioner’s case before the RT Tribunal was based on
+past conduct and not future likelihood. I shall not refer to this part of the
+section further3
+.
+27. The lessor ultimately submitted that the dismissal was pre-emptive, and that
+whether the tenant is likely to cause interference with other occupants’ quiet
+enjoyment in the future was a matter for evidence.
+Must!Il Aust !!! AustLII AustLi
+Consideration
+28. In Faull Refshauge J observed that:
+134. The question here, then, is what content is to be given to
+“intentionally or recklessly”, as referred to in the section. These are
+words frequently encountered in the criminal law. It seems to me there is
+no reason why they should not be given the same meaning.
+135. Intent, of course, is an ordinary English word and should be given its
+ordinary meaning: Cutter v The Queen [1997] HCA 7; (1997) 94 A Crim
+R 152 at 165-6.
+136. Recklessness at common law requires some foresight that the
+prohibited consequences will eventuate and the action is nevertheless
+2 Applicant’s submissions dated 10 September 2020
+3 Applicant’s submissions dated 10 September 2020.
+taken. See, for example, Pemble v The Queen [1971] HCA 20; (1971) 124
+CLR 107 at 127, 135 and La Fontaine v The Queen (1976) 136 CLR 62 at
+76.
+29. Faull is a decision of the Supreme Court on the interpretation of the provision in
+issue in this case, and as such it would, at the very least, be highly persuasive. It
+is appropriate that I follow it.
+30. The Supreme Court’s reasoning in Faull is very clear, at least in so far as it
+related to past acts: for an order to be made under section 51(d) of the RT Act
+the applicant must show that the tenant either intended to damage the premises,
+or that he foresaw the probability and undertook the action anyway. There is no
++LIIAustLII AustLII AustLII Aust! evidence that the tenant in this case could meet that test, and clear evidence that
+he cannot.
+31. CC is clearly distinguishable. CC was an internal appeal against a decision by
+the Tribunal to issue a termination and possession order under section 51. The
+tenants in CC had many challenges, including limited capacity and drug and
+alcohol issues, but in that case the Tribunal ultimately determined that the
+tenants understood the consequences of their actions. There is no evidence that
+the tenant in this case can form such an intention.
+32. Consequently, following the reasoning in Faull, the application for a
+termination and possession order based on past actions must be dismissed.
+33. The position in relation to the future risks ground is more complicated. Must!Il Aust !!! AustLII AustLi
+34. There is an argument, on a plain language reading of section 51(d) of the RT
+Act, that all the lessor requires to found an action under paragraph (d) in relation
+to future risks is evidence that the tenant is likely to cause or allow serious or
+continuous interference with the quiet enjoyment of the nearby premises. If
+correct, evidence of intention or recklessness is not required, only evidence of
+consequence.
+35. It is useful to again turn to Faull. In considering the issues that arose in that
+case, Refshauge J set out, in some detail, the history and purpose of section 51
+of the RT Act:
+119. As approved by the Full Court in Devenport, I have had regard to
+the Community Law Reform Committee’s Report. The relevant
+passage and recommendation in the Report is as follows:
+Urgent applications for termination as a result of danger to the
+premises or risk of injury to the lessor.
+813. The effect of the above recommendations is that in certain
+cases the lessor may have to wait between five and seven weeks for
+a tribunal order terminating the tenancy agreement. The Committee
+agrees with submissions in support of a facility for urgent
+termination in extreme situations. In extreme situations there may
+be a significant risk of extensive damage to the premises or of injury
+to the lessor during this delay. The Committee therefore agrees that
+in cases where the lessor has a reasonable fear that the premises
+are about to be severely damaged or further damaged then the
++LIIAustLII AustLII AustLII Aust! lessor should be able to seek an urgent hearing before the tribunal
+to terminate the tenancy and so reduce the risk of damage. The
+following recommendations are based on the Residential Tenancies
+Act 1987 (NSW) [s 68(1)].
+Recommendation 152: The proposed Residential Tenancies Act
+should enable the lessor to apply to the tribunal for an urgent
+hearing to terminate the tenancy where the premises are at serious
+risk of severe damage or the lessor has suffered or is likely to suffer
+injury to him or herself. The Committee also recommends that the
+tribunal have a discretion to terminate the tenancy if it is satisfied
+that the tenant has intentionally or recklessly caused or permitted,
+or is likely intentionally or recklessly to cause or permit:
+ serious damage to the residential premises; or
+ injury to the lessor, the lessor’s agent or any person in
+occupation of or permitted on adjoining or adjacent premises. Must!Il Aust !!! AustLII AustLi
+120. The Explanatory Memorandum made it explicit that s 51
+implemented this recommendation.
+36. Having regard to the comments of the Community Law Reform Committee’s
+Report, as quoted by his Honour, and to his Honour’s observations about them,
+it is clear that the Committee recommended that the Tribunal have a discretion
+to terminate the tenancy only if it is satisfied that a tenant has intentionally or
+recklessly caused or permitted, or is likely to intentionally or recklessly to cause
+or permit, serious damage or nuisance. In other words, the intention or the
+recklessness were, in the committee’s mind, crucial to both the past actions and
+the future.
+37. Subsection 51(d), which relates to interference with quiet enjoyment, was
+inserted later by way of the Residential Tenancies Amendment Act 2005. In
+relation to that amendment, His Honour observed that:
+123. The present form of paragraphs (b) and (c) were inserted on 8
+March 2005 and paragraph (d) was inserted on 28 February 2006.
+The Explanatory Statement for the latter insertion was particularly
+bland and did not explain why this provision was included in what the
+Community Law Reform Committee had described as providing for
+“extreme situations”. The Explanatory Statement simply said:
+Clause 16 Damage, injury or intention to damage or injure
+Section 51(b) – inserts new section 51(c) [sic] into the Act, which
+provides that the Residential Tenancies Tribunal may evict a tenant
+who is seriously or continuously interfering with a neighbour’s
++LIIAustLII AustLII AustLII Austi quiet enjoyment of their property. This is consistent with the existing
+prescribed clause 70 which states that a ‘tenant shall not interfere,
+or permit interference, with the quiet enjoyment of the occupiers of
+nearby premises’.
+124. Paragraph (d) is, after all, quite a different provision without the
+obvious element of urgency and serious risk inherent in the other
+paragraphs.
+125. Nevertheless, the section still provided that such termination under s
+51 was only available where the RT Tribunal was “satisfied that the
+tenant has intentionally or recklessly caused or allowed ... the
+relevant outcomes specified in the subsequent paragraphs.
+38. In other words, section 51(d) added a ground for termination that did not carry
+with it the urgency of the other subsections of 51. Rather, the test hinged upon
+an intention or recklessness on the part of the tenant. Must!Il Aust !!! AustLII AustLi
+39. It would be extraordinary then, if the intention of the legislature were to draft a
+provision that required intention or recklessness in relation to past, proven
+actions, but applied a different, lower standard to terminations based on likely
+future actions. It would enable a lessor to obtain a termination under section
+51(d) for, for example, an action that may happen in the future in circumstances
+where the same action could not found a termination if proven to have happened
+in the past. Such an outcome would be manifestly absurd or is unreasonable and
+an interpretation that avoids such an outcome is to be preferred. 4
+4 Legislation Act 2001 sections 138(c) and 139(1)
+40. Consequently, I am satisfied that for any order for termination made under
+section 51(d), I need to be satisfied both that the tenant is likely to intentionally
+or recklessly cause or allow interference with quiet enjoyment of nearby
+premises. As a capacity to form an intention or recklessness as to the outcome
+cannot be established in this case, the matter must be dismissed.
+41. In making this decision, I acknowledge the frustration that the applicant lessor
+must feel at this decision. No doubt it has the welfare of all its tenants in mind
+when it makes difficult decisions such as the one to evict the tenant. However,
+the lessor is not without alternative remedies. By the time this decision was
+delivered, the lessor had already advised that it will seek an order under section
++LIIAustLII AustLII AustLII Aust! 48 of the RT Act for termination breach of the terms of the residential tenancy
+agreement, for breach of the obligation in clause 70(c) of the standard terms not
+to interfere with the quiet enjoyment occupiers of nearby premises. This appears
+to be the more appropriate course, as the section 48 process contains
+protections, including notices and periods of time in which to address breaches,
+that are not available under section 51 of the RT Act. Alternatively, there is a
+no-fault process under section 47 of the Act, including the option of a 26 week,
+no cause notice.
+42. Ultimately, however, an acceptable solution to the current situation is not likely
+to be found through litigation, and the Tribunal strongly encourages the parties
+to seek resolution through another means that better preserves what has been,
+Must!Il Aust !!! AustLII AustLi
+until relatively recently, a lengthy and seemingly successful relationship.
+………………………………..
+Presidential Member H Robinson
+Date(s) of hearing 20 August 2020, 1 September 2020 &
+18 September 2020
+Solicitors for the Applicant: Mr P Christensen
+Solicitors for the Respondent: Ms E Towney, Canberra Community Law

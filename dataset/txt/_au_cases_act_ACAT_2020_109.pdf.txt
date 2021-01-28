@@ -1,0 +1,561 @@
+ACT CIVIL & ADMINISTRATIVE TRIBUNAL
+MIRARABSHAHI v FB MARKETS PTY LTD ACN 627 763 320
+(Civil Dispute) [2020] ACAT 109
+XD 132/2020
+Catchwords: CIVIL DISPUTE – unsolicited consumer agreement – contract
+to supply software for purpose of currency trading - application
+for refund – contravention of requirement for provision of
++LIIAustLII AustLII AustLII Aust! information prior to making the agreement – contravention of
+prohibition to supply goods or receive payment prior to expiry
+of statutory period – extension of termination period – notice to
+terminate given within extended termination period – statutory
+obligation to refund engaged – refund ordered
+Legislation cited: Australian Consumer Law (Cth) ss 69, 70, 71, 72, 76, 82, 83,
+84, 86
+Fair Trading (Australian Consumer Law) Act 1992 ss 6, 7
+Subordinate
+Legislation cited: Competition and Consumer Regulations 2010 ss 83, 84
+Cases cited: ACCC v Origin Energy Electricity Ltd [2015] FCA 278
+Australian Competition and Consumer Commission v Unique
+International College [2017] FCA 727
+Must!Il Aust !!! AustLII AustLi
+Tribunal: Presidential Member G McCarthy
+Date of Orders: 14 December 2020
+Date of Reasons for Decision: 14 December 2020
+AUSTRALIAN CAPITAL TERRITORY
+CIVIL & ADMINISTRATIVE TRIBUNAL XD 132/2020
+BETWEEN:
+PEYMAN MIRARABSHAHI
+Applicant
+AND:
+FB MARKETS PTY LTD ACN 627 763 320
+Respondent
++LIIAustLII AustLII AustLII Aust!
+TRIBUNAL: Presidential Member G McCarthy
+DATE: 14 December 2020
+ORDER
+The Tribunal orders that:
+1. The respondent is to pay the applicant the sum of $15,014.85 within 28 days
+from the date of the order, comprised of:
+(a) a refund of the goods purchased ($14,300);
+(b) the filing fee ($159.50); and
+(c) interest in the sum of $555.35. Must!Il Aust !!! AustLII AustLi
+………………………………..
+Presidential Member G McCarthy
+REASONS FOR DECISION
+1. The respondent, FB Markets Pty Ltd, holds itself out as a software development
+company for currency trading. As part of its business, it sells licences to operate
+a software program described as Alpha FX that ‘pairs’ one currency with
+another and tracks their value, relative to each other, according to movements
+on currency markets. For example, the software can ‘pair’ the Australian dollar
+with the New Zealand dollar and then track changes in the value of one
+currency relative to the other. It can operate multiple pairs of currencies and
+track changes in the value of one currency in each pair relative to the other.
+2. The software is an investment tool. As I understood it, a user of the software
++LIIAustLII AustLII AustLII Aust! places cash with a foreign-exchange broker and then uses the software to
+provide automated directions to the broker to buy or sell one currency or the
+other in a pair according to rises or falls in the value of one currency relative to
+the other. The user of the software (in this case, the applicant) ‘sets’ the points
+in the software at which a rise or fall will prompt an automated direction to the
+broker.
+3. The respondent sells the Alpha FX software program to investors.
+4. On 30 October 2019, the applicant, Mr Mirarabshahi, received a telephone call
+from Tracey McClennan who was “a telemarketer in an appointment centre” 1
+for the respondent. Mr Peters, on behalf of the respondent, said that this
+occurred as part of the respondent’s campaign for the sale of its automatic Must!Il Aust !!! AustLII AustLi
+currency trading software.2
+5. Ms McClennan gave evidence at the hearing. She explained that the applicant’s
+name came up on her “autodialler”,3 which suggested that the applicant had in
+some way shown an interest “in some type of investment”, noting that “ours is
+currency trading.”4 Ms McClennan could offer no other information about how
+the applicant’s name and telephone number came to be on her autodialler.
+1 Transcript of proceedings 13 August 2020, page 47, lines 37-38
+2 Transcript of proceedings 13 August 2020, page 97, lines 35-36
+3 Transcript of proceedings 13 August 2020, page 49, line 32
+4 Transcript of proceedings 13 August 2020, page 48, lines 5-6
+6. The applicant received Ms McClennan’s call at 2:52pm. The applicant was busy
+at the time Ms McClennan rang, and requested a call back after 6:00pm.5 Later
+that day, Ms McClennan called the applicant back as requested. 6 In that further
+call, the applicant expressed interest in the respondent’s software program and
+requested more information.
+7. On 1 November 2019, the applicant received another call, this time from
+Mr Kalvin McDonald who was a sales representative on behalf of the
+respondent. By arrangement, on 9 November 2019 the applicant and Mr
+McDonald had a long conversation about the Alpha FX program at the end of
+which the applicant agreed to a trial usage of the software. This entailed the
++LIIAustLII AustLII AustLII Aust! applicant opening an account with the respondent, installing the software in the
+applicant’s personal computer, the applicant opening an account with
+Charterprime (being the currency broker suggested by the respondent and
+accepted by the applicant) and the applicant depositing $1,000 into the broker’s
+account to facilitate automated currency trades as directed by the software. The
+applicant’s account started trading on 6 December 2019.
+8. Mr McDonald gave evidence that the applicant was impressed with the net
+gains he was making from currency trading using the software during the trial
+and wanted to purchase the software immediately in order to continue trading.
+Mr McDonald offered two packages: six currency pairs for $9,900 and
+13 currency pairs for $14,300. The applicant chose the latter package.
+Must!Il Aust !!! AustLII AustLi
+9. Mr McDonald said (and I accept) that the applicant was anxious to purchase the
+software and to set up further currency trading as quickly as possible because he
+was leaving on 16 December 2019 to go on a cruise ship for a holiday and did
+not want to miss out on money he could make from currency trading whilst
+holidaying on the ship.
+10. In accordance with the applicant’s wishes, on 13 December 2019 Mr McDonald
+sent the applicant a proposed contract with the respondent for the purchase of
+the Alpha FX program comprised of 13 pairs (being 11 currency pairs and 2
+5 Transcript of proceedings 13 August 2020, page 8, lines 4-5
+6 Transcript of proceedings 13 August 2020, page 47, lines 15-19
+commodity pairs, being gold and oil) for a purchase price of $14,300. He did so
+under cover of an email sent on 13 December 2019 at 1:30pm.7 The terms of the
+proposed contract were brief. They were as follows:
+1. I, the buyer, hereby agree to purchase the Alpha FX (13 Pairs - See
+Attachment) software program from FB markets Pty Ltd for the
+price of $14,300 incl GST.
+2. Software fees do not include trading funds.
+3. The Buyer will be required to:
+a. Download Meta Trader 4 (MT4)
+b. Open an account with a compatible broker that utilises MT4
++LIIAustLII AustLII AustLII Aust!
+4. FB Markets Pty Ltd will provide the following:
+a. Entry to the trading Program and software package
+b. Ongoing customer services
+c. Regular updates of new trading strategies and software
+packages.
+5. The contract for the sale of the Alpha FX software program
+comprises all the terms of the agreement. No refunds we made to the
+buyer. The parties acknowledge that no other representations,
+provisions or incentives made by any salesperson, agent or
+independent contractor form a part of this contract.
+6. The buyer fully understands that there are inherent risks associated
+with derivative market trading.
+Must!Il Aust !!! AustLII AustLi
+7. The client understands that due to restrictions under the Australian
+Consumer Law, s 82, it is unlawful for FB Markets to provide goods
+and/or services until the expiration of a 10 business day
+cancellation period. All services provided to the client will
+commence 10 business days after this agreement is received.
+8. In compliance with Australian Consumer Law, s86, all payments
+are not due until 10 business days after this agreement. Important
+Notice to Consumer: You have the right to cancel this agreement
+within 10 business days from and including the day after you
+received this agreement.
+9. This is a lifetime agreement.
+7 Exhibit A8
+The Client fully understands that there are risks associated with trading.
+Past performance figures that may have been discussed have no reflection
+on what may happen in the future. We make no false promises that we
+would find difficult to sustain, both in the long and short term, and most
+importantly, we do not want you as our valued client to have a totally
+unrealistic expectation of this product.
+The Alpha FX Program is a derivative market program. It is not a
+program for quick and certain wealth. The seller is proud of the product
+but cautions the valued client from holding unrealistic expectations.
+Investment in derivative markets included (sic) the necessity for able risk-
+management. The prudent investor measures investment, risk and reward.
+11. A computer-generated bank receipt confirms that the applicant paid $14,300 to
+the respondent on 13 December 2019 at 1:39pm.
++LIIAustLII AustLII AustLII Aust!
+12. The applicant signed the proposed contract in the form that it was sent and
+returned it to the respondent by email sent on 13 December 2019 at 1:45pm (the
+contract) 8 - 15 minutes after he received it.
+13. Notwithstanding clause 7 of the contract, in response to the applicant’s wish to
+commence trading before he went on the cruise ship, on or about on 16
+December 2019 the respondent accepted the applicant’s money and activated
+the software.9
+14. The applicant gave evidence that he became dissatisfied with the Alpha FX
+program, despite efforts by the respondent’s customer service staff to assist him.
+15. On 3 January 2020, the applicant sent an email to the respondent which Must!Il Aust !!! AustLII AustLi
+relevantly stated:
+I have been trying to contact you several times over the phone and
+nominated email address and no response yet. As the customer service
+was part of the agreement which has not been fulfilled so the agreement is
+terminated and I want full refund of $14300.10
+16. On 3 January 2020, the applicant sent another email to the respondent which
+stated:
+8 Transcript of proceedings 13 August 2020, page 36, lines 20-46
+9 Transcript of proceedings 13 August 2020, page 26, lines 31-32. There was disputed evidence
+from the applicant that only 6 of the 13 pairs were activated, but it was not necessary to decide
+that issue for the purpose of this application
+10 Exhibit A4
+BTW, the USB that I received doesn’t have the software nor the
+instruction manual. Please arrange for refund ASAP11
+17. On 7 January 2020, the applicant sent two more emails contending that the
+respondent’s telephone number “is not in service”. He invited the respondent’s
+“IT tech” to connect to his laptop and remove the software. He pressed for
+payment of the requested refund.12
+18. On 8 January 2020, in yet another email, the applicant again pressed for a full
+refund and said that any future communication would be sent to different
+Commonwealth regulators. 13
+19. +LIIAustLII AustLII AustLII Aust! On 8 January 2020, someone from the respondent telephoned the applicant to
+discuss the applicant’s concerns with the software, but the applicant maintained
+his request for a refund.14
+20. On 3 February 2020, the applicant commenced proceedings in this Tribunal for
+recovery of the amount he paid for the software ($14,300), plus the filing fee
+($159.50) plus interest. The applicant took a scattergun approach as to why he
+should receive a refund, alleging breaches of sections 18, 23, 24, 25, 29, 69, 70,
+72, 76, 79, 82, 84, 86, 87 and 89 of the Australian Consumer Law (the ACL).15
+21. The respondent denied liability on the basis that the applicant trialled the
+product, did not cancel in writing in the so-called 10 day cooling off period,
+continued to use the software and made a profit from using the software.
+Must!Il Aust !!! AustLII AustLi
+22. I begin with the applicant’s claim under sections 69 – 89 of the ACL, which
+deal with rights and obligations in connection with an “unsolicited consumer
+agreement”. That term is defined in section 69 of the ACL, the relevant part of
+which is as follows:
+Meaning of unsolicited consumer agreement
+11 Exhibit A4
+12 Exhibit A4
+13 Exhibit A4
+14 Transcript of proceedings 13 August 2020, page 23, lines 10-27
+15 The Fair Trading (Australian Consumer Law) Act 1992, section 6(a) relevantly includes the
+Australian Consumer Law at schedule 2 to the Competition and Consumer Act 2010 (Cth), and
+section 7 of the Fair Trading (Australian Consumer Law) Act 1992 permits it to be referred to as
+the Australian Consumer Law (ACT)
+(1) An agreement is an unsolicited consumer agreement if:
+(a) it is for the supply, in trade or commerce, of goods or services to a
+consumer; and
+(b) it is made as a result of negotiations between a dealer and the
+consumer:
+(i) in each other's presence at a place other than the business or
+trade premises of the supplier of the goods or services; or
+(ii) by telephone;
+whether or not they are the only negotiations that precede the
+making of the agreement; and
+(c) the consumer did not invite the dealer to come to that place, or to
+make a telephone call, for the purposes of entering into negotiations
+relating to the supply of those goods or services (whether or not the
++LIIAustLII AustLII AustLII Aust! consumer made such an invitation in relation to a different supply);
+and
+(d) the total price paid or payable by the consumer under the
+agreement:
+(i) is not ascertainable at the time the agreement is made; or
+(ii) if it is ascertainable at that time--is more than $100 or such
+other amount prescribed by the regulations.
+(4) However, despite subsections (1) and (3), an agreement is not an
+unsolicited consumer agreement if it is an agreement of a kind that the
+regulations provide are not unsolicited consumer agreements.
+23. For an unsolicited consumer agreement, a dealer has numerous obligations
+under sections 73-76 of the ACL regarding negotiation of the agreement.
+Sections 78 – 81 impose other requirements on a dealer and/or a supplier in
+relation to such an agreement. Must!Il Aust !!! AustLII AustLi
+24. A ‘dealer’ is defined in section 71 of the ACL as “a person who, in trade or
+commerce, enters into negotiations with a consumer with a view to making an
+agreement for the supply of goods or services to the consumer; or calls on, or
+telephones, a consumer for the purpose of entering into such negotiations;
+whether or not that person is, or is to be, the supplier of the goods or services”.
+It follows that Ms McClennan and Mr McDonald were dealers for the purposes
+of section 71.
+25. ‘Negotiation’, in relation to an agreement or a proposed agreement, is defined in
+section 72 of the ACL to include “any discussion or dealing directed towards
+the making of the agreement or proposed agreement”.
+26. Section 82 of the ACL sets out different grounds on which a consumer16 under AustLII AustLI
+an unsolicited consumer agreement may terminate the agreement and the
+timeframes within which the consumer may do so.
+27. Section 84 the ACL provides that if an unsolicited consumer agreement is
+terminated in accordance with section 82:
+…the supplier under the agreement must, immediately upon being notified
+of the termination, return or refund to the consumer under the agreement
+any consideration (or the value of any consideration) that the consumer
+gave under the agreement or a related contract or instrument.
+28. The first question was whether the contract was an unsolicited consumer
++LIIAustLII AustLII AustLII Aust! agreement. The applicant alleged it was, and the respondent that it was not.
+29. Pursuant to section 70 of the ACL, where the applicant alleges that the contract
+is an unsolicited consumer agreement it is “presumed” to be an unsolicited
+consumer agreement if no other party proves that it is not. In other words, under
+section 70, the onus was on the respondent to prove that the contract was not an
+unsolicited consumer agreement.17
+30. Mr Peters, on behalf of the respondent, said (and I accept) that on 7 December
+2017 the applicant “opted into an email for options of looking for ways to
+increase his residual income”.18 Mr Peters explained that the respondent
+“purchases leads”, meaning (as I understood it) lines of enquiry to possible
+purchasers of its product, from a lead broker agency. It seems that, by this
+Must!Il Aust !!! AustLII AustLi
+means, the respondent obtained details about the applicant (arising from his
+enquiry in 2017) which led to Ms McClennan telephoning the applicant on 30
+October 2019.
+31. Mr Peters described Ms McClennan as the “original telemarketer.”19 He
+properly accepted that her first call to the applicant was “unsolicited.20 He
+submitted, nevertheless, that the contract was not an unsolicited consumer
+16 A ‘consumer’ is defined in section 3 of the ACL. The applicant was a consumer in relation to
+his purchase of the Alpha FX software program.
+17 ACCC v Origin Energy Electricity Ltd [2015] FCA 278 at [17]
+18 Transcript of proceedings 13 August 2020, page 97, lines 31-34
+19 Transcript of proceedings 13 August 2020, page 107, lines 15-16
+20 Transcript of proceedings 13 August 2020, page 99, lines 19-21; page 107, lines 15-16
+agreement because, from the point in time when Ms McClennan contacted the
+applicant, the applicant positively pursued further communication with
+representatives of the respondent by means of telephone appointments on
+agreed times and dates. To use his phrase, “they were all agreed call-backs.”21
+The applicant contended that only some of the call-backs were agreed, but
+nothing turns on this.
+32. Mr Peters also relied on the fact that the applicant could, at any time, have
+chosen not to proceed with the proposed purchase of the software but did not do
+so. This is consistent with an email that the respondent sent to the applicant on
+1 November 2019 in relation to the proposed trial of the software in which the
++LIIAustLII AustLII AustLII Aust! respondent wrote:
+Remember, this is just a trial and you are not obliged to continue further
+if you are not satisfied with any aspect of the services provided. All profits
+generated throughout the course of the trial will remain in your account
+and you are free to withdraw your funds at any time.
+33. Mr Peters relied on the fact that the applicant chose to continue with the
+installation of the software and, by his own admission, “received financial
+benefit to the value of $252 in a short period of time”.22 Why the applicant’s
+receipt of the financial benefit had any bearing on the character of the contract
+was not explained.
+34. I was not persuaded by Mr Peters’ submission, as I needed to be under section
+70, that the contract is not an unsolicited consumer agreement. Must!Il Aust !!! AustLII AustLi
+35. First, the respondent (appropriately) did not dispute that paragraphs 69(1)(a) and
+(d) of the ACL are met.
+36. Regarding paragraphs 69(1)(b) and (c) of the ACL, it should first be noted that
+“the dealer” in paragraphs 69(1)(c) is a reference to the “dealer” in paragraph
+69(1)(b). It follows that all the negotiations by telephone between the applicant
+and Mr McDonald are without consequence, for the purposes of section 69 of
+the ACL, because, I accept, none of those telephone calls was unsolicited.
+21 Transcript of proceedings 13 August 2020, page 107, lines 37
+22 Transcript of proceedings 13 August 2020, page 13, lines 36-38; page 107, line 41
+37. I was also prepared to accept that no call, save for the first call from
+Ms McClennan at 2:52pm on 30 October 2019, was unsolicited. The question is
+whether that call was enough to satisfy paragraphs 69(1)(b) and (c), noting that
+Mr Peters properly accepted that the applicant did not invite Ms McClennan to
+make that telephone call.
+38. Regarding paragraph 69(1)(b), I acknowledge that the contract culminated from
+negotiations between the applicant and Mr McDonald, but those negotiations
+followed from the earlier discussion between Ms McClennan and the applicant.
+In other words, the earlier discussion set in train a process that resulted in the
+contract. It is also clear from the words “whether or not they are the only
++LIIAustLII AustLII AustLII Aust! negotiations that precede the making of the agreement” at the close of paragraph
+69(1)(b) that negotiations includes earlier negotiations between the consumer
+and a different dealer, and in this case Ms McClennan.
+39. I am also satisfied, by the clear causal links between Ms McClennan’s first
+unsolicited call to the applicant and all subsequent calls to or from the applicant,
+that the contract was made “as a result of negotiations” between Ms McClennan
+and the applicant, noting that ‘negotiation includes “any discussion or dealing
+directed towards the making of the agreement”. It is self-evident that
+Ms McClennan’s discussion with the applicant during that first call was directed
+towards that purpose, even if the discussion did not progress in any substantive
+way.
+Must!Il Aust !!! AustLII AustLi
+40. I received very little evidence about what was discussed during the first call. In
+particular, I had no evidence about what Ms McClennan first said and who
+turned the conversation towards the prospect of making the contract. However,
+nothing turns on these issues. In Australian Competition and Consumer
+Commission v Unique International College23, the Federal Court, per Perram J,
+said that for the purposes of paragraph 69(1)(b), it does not matter who initiated
+the negotiations: it is enough that the discussion was directed towards the
+making of the agreement.
+23 Australian Competition and Consumer Commission v Unique International College [2017] FCA 727 at
+[737]-[738]
+41. Regarding paragraph 69(1)(c), it is self-evident that the applicant did not invite
+the dealer (meaning Ms McClennan in this case) to make her telephone call “for
+the purpose of entering into negotiations” relating to the supply of the software.
+It does not matter that Ms McClennan’s initial telephone call was brief and did
+not progress beyond the applicant requesting a call-back to discuss the software
+further. The fact that the applicant (in relation to the first call) did not invite Ms
+McClennan to call him “for the purposes of entering of entering into
+negotiations relating to the supply” of the software is enough even if the
+applicant “motivated” 24 the sale after receiving that first call.
+42. I also note that the contract refers to “restrictions” under section 82 of the ACL
++LIIAustLII AustLII AustLII Aust! and what must be done to comply with section 86. Those sections apply only to
+unsolicited consumer agreements, which begged the question why the contract
+should not be regarded as an unsolicited consumer agreement. In response to
+the contract referring to these sections, Mr Peters said that “maybe from our end
+it wasn’t worded the best possible way”25 and that it “could be a mistake on our
+behalf”.26
+43. I can accept that the contract does not become an unsolicited consumer
+agreement simply because it refers to these sections, but their inclusion is a
+strong indicator that the respondent understood that the contract was an
+unsolicited consumer agreement: why else would they be included?
+44. The next question was whether the respondent contravened any of the Must!Il Aust !!! AustLII AustLi
+provisions governing an unsolicited consumer agreement. The applicant
+contended it breached section 76 of the ACL, which reads as follows:
+Informing person of termination period etc.
+A dealer must not make an unsolicited consumer agreement with a
+person unless:
+(a) before the agreement is made, the person is given information as
+to the following:
+(i) the person's right to terminate the agreement during the
+termination period;
+24 Transcript of proceedings 13 August 2020, page 108, line 4
+25 Transcript of proceedings 13 August 2020, page 108, lines 1 - 2
+26 Transcript of proceedings 13 August 2020, page 109, lines 1 - 2
+(ii) the way in which the person may exercise that right;
+(iii) such other matters as are prescribed by the regulations; and
+(b) if the agreement is made in the presence of both the dealer and
+the person--the person is given the information in writing; and
+(c) if the agreement is made by telephone--the person is given the
+information by telephone, and is subsequently given the information
+in writing; and
+(d) the form in which, and the way in which, the person is given the
+information complies with any other requirements prescribed by the
+regulations.
+45. Referring to section 76, the applicant contended that “before the agreement”
+was made, he was not given the information described in section 76(a)(i) or
+(ii).27 +LIIAustLII AustLII AustLII Aust!
+46. There was no suggestion that the applicant received information of the kind
+described in section 76(a)(i) or (ii) other than by means of the information in the
+proposed contract. Two questions therefore arose: whether the applicant was
+given the information before the agreement was “made”, and whether the
+information was of the kind required to be given under section 76(a)(i) and (ii).
+47. The period between when the respondent sent the proposed contract and when
+the applicant signed and returned it was extremely brief. That is consistent with
+the evidence that the applicant was very firm in his wish to purchase the
+software as quickly as possible before leaving on his cruise. The period was
+brief, but that was the applicant’s choosing. When he chose to sign and return
+Must!Il Aust !!! AustLII AustLi
+the contract was entirely a matter for him. Regarding section 76(a), the contract
+was not “made” until the applicant signed and returned it. It follows that the
+respondent sent the proposed contract to the applicant “before” it was “made”,
+meaning this aspect of section 76(a) was met.
+48. The next question was whether the information in the proposed contracts of a
+kind that satisfied sections 76(a)(i) and (ii) of the ACL.
+49. Regarding section 76(a)(i), what constitutes “the termination period” is set out
+in section 82. In the case of an agreement negotiated by telephone, such as this
+case, under section 82(3)(b), the termination period is ordinarily a period
+27 Transcript of proceedings 13 August 2020, page 91, lines 25-32
+“starting on the day on which the agreement was made” and ending “at the end
+of the tenth business day after the day on which the consumer was given the
+agreement document relating to the agreement”. How many days will make up
+the termination period will depend upon these variables and upon how many
+non-business days there are in the period commencing “after the day on which
+the consumer was given the agreement”. Having regard to these variables, the
+so-called “10 day cooling off period” is a phrase that can easily confuse.
+50. However, under section 82(3)(c), where there is a contravention of section 73
+and/or section 75, the termination period is three months starting on the day
+after the day the agreement was made. Under section 82(3)(c), where there is a
++LIIAustLII AustLII AustLII Aust! contravention of section 76 and/or section 86, the termination period is six
+months starting on the day after the day the agreement was made.
+51. In this case, assuming the absence of a contravention of section 73, 75, 76 or 86,
+Mr Peters relied on clause 8 of the contract to submit that the respondent
+informed the applicant of his right to terminate the agreement during the
+termination period. I was prepared to accept that the “Notice to Consumer” in
+clause 8 correctly informed the applicant of the termination period, although
+there is a strong argument that the applicant should have been informed of the
+different termination periods that would arise if there were breaches of the ACL
+and the kinds of breaches that would cause a different termination period.
+52. Regarding section 76(a)(ii), a dealer was required to inform the applicant about Must!Il Aust !!! AustLII AustLi
+“the way in which” the applicant may exercise his right to terminate the
+contract. There is no statutory requirement regarding the manner in which a
+dealer may or must require a consumer to exercise their right to terminate,
+which gives flexibility on this issue. However, whatever way a dealer chooses,
+it must be stated. In this case, the contract says nothing at all about the way in
+which the applicant can exercise his right to terminate the contract. It follows
+that there was a contravention of section 76(a)(ii) of the ACL.
+53. In my view, there was also a contravention of section 76(a)(iii), which requires
+a dealer to provide information about “other matters as are prescribed by the
+regulations.” Regulation 83 of the Competition and Consumer Regulations
+2010 prescribes information that must be provided for the purposes of section
+76(a)(iii). It states:
+83 Information about termination period
+(1) For subparagraph 76(a)(iii) of the Australian Consumer Law,
+information about the prohibition in section 86 of the Australian
+Consumer Law is prescribed.
+(2) However, subregulation (1) does not apply if section 86 of the
+Australian Consumer Law does not apply to, or in relation to, the
+unsolicited consumer agreement.
+Note: Section 86 of the Australian Consumer Law may not apply to an
+unsolicited consumer agreement because of regulations made under
+section 94 of the Australian Consumer Law. For example, section 86 of
+the Australian Consumer Law does not apply to, or in relation to,
++LIIAustLII AustLII AustLII Aust! agreements of a kind specified in regulation 89 and circumstances of a
+kind specified in regulations 88 and 95 of these Regulations.
+54. Referring to regulation 83, section 86(1)(a) of the ACL prohibits a supplier
+under an unsolicited consumer agreement from supplying the goods or services
+to be supplied under the agreement during the period “starting on the day on
+which the agreement was made” and ending “at the end of the tenth business
+day after the day on which the consumer was given the agreement document
+relating to the agreement”. Section 86(1)(b) of the ACL prohibits a supplier
+from accepting any payment in connection with those goods or services during
+that period. Section 86(1)(c) of the ACL prohibits a supplier from requiring any
+payment in connection with those goods or services during that period.
+55. Regulation 83(2) does not apply because section 86 applies to this unsolicited Must!Il Aust !!! AustLII AustLi
+consumer agreement.
+56. Clause 7 of the proposed contract gave the applicant information about the
+prohibition on the respondent from supplying the software “until the expiration
+of the 10 business day cancellation period”, which is then explained to mean 10
+business days after this agreement is received”, but there is nothing in the
+proposed contract or elsewhere that informed the applicant prior to the contract
+being made about the prohibition on the respondent from accepting or requiring
+any payment during that period. It follows that there was a contravention of
+section 76(a)(iii).
+57. Section 76(d), upon which the applicant also relied provides that the form in
+which the information is provided must comply “with any other requirements
+prescribed by the regulations.” In this respect, regulation 84 of the Competition
+and Consumer Regulations provides further information about how the
+information must be provided. It states:
+84 Form and way of giving information about termination period
+For paragraph 76(d) of the Australian Consumer Law, information
+given in writing must be:
+(a) attached to the agreement or agreement document for the
+supply of goods or services; and
++LIIAustLII AustLII AustLII Aust! (b) transparent; and
+(c) in text that is the most prominent text in the document,
+other than the text setting out the dealer’s or supplier’s name
+or logo.
+58. The applicant contended that the information was not “attached”, in the sense of
+it being on a separate attached document rather than forming part of the
+proposed contract. I was not persuaded by this submission, but it was not
+necessary to decide this question in circumstances where I had found other
+contraventions of the ACL.
+59. Under section 82(3)(d)(ii), the contraventions of sections 76(a)(ii) and (iii)
+cause the termination period to be six months starting on the day after the
+contract was made, meaning the period commencing 14 December 2019 and
+Must!Il Aust !!! AustLII AustLi
+concluding on 13 June 2020.
+60. In my view, the respondent also contravened section 86(1)(a), (b) and (c) of the
+ACL by supplying the software to the applicant within 10 business days after
+the contract was made and by accepting and requiring payment from the
+applicant within 10 business days after the contract was made for the purpose of
+activating the software.
+61. It is not to the point that the applicant was asking, if not insisting, that the
+software be provided forthwith so that he could (he hoped) make money from
+currency trading whilst on his holiday. I could not find anything in the ACL that
+excuses a supplier from its obligations under section 86 where a consumer
+requests supply of the goods earlier than the stated period or seeks to pay earlier
+than the stated period.
+62. It would also appear that the respondent was well aware of its obligations under
+section 86 because, as mentioned, the first of the restrictions is set out in clause
+7 of the contract (even if clause 7 incorrectly referred to section 82, not section
+86).
+63. The respondent’s contraventions of sections 76 and 86 cause the termination
+period to be six months. Under section 82 of the ACL, the applicant was (within
+that termination period) entitled to terminate the contract “by indicating, in an
++LIIAustLII AustLII AustLII Aust! oral or written notice” to the respondent, an intention to terminate the contract.
+The applicant did so in January 2020, well within six months from when the
+contract was made.
+64. Under section 83, consequent upon the applicant’s termination of the contract
+under section 82, the contract is “taken to have been rescinded by mutual
+consent”.
+65. Under section 84, “immediately upon being notified of the termination” within
+the termination period, the respondent was required to “return or refund” to the
+applicant any consideration that the applicant gave under the agreement,
+meaning, in this case, the payment of $14,300.
+66. Where I have found by reference to the provisions governing unsolicited Must!Il Aust !!! AustLII AustLi
+consumer agreements that the applicant is entitled to the relief he seeks, it is
+unnecessary for me to consider the applicant’s further claims that the respondent
+engaged in misleading and deceptive conduct, contrary to sections 18 and/or 29
+of the ACL, or that the contract was “unfair”, contrary to sections 23, 24 and/or
+25 the ACL.
+67. I am prepared to say, however, that I found the applicant’s arguments with
+reliance on these sections to be unconvincing. In particular, there was
+extensive and persuasive evidence that the respondent made every effort to
+respond to the applicant’s queries and concerns about the software and to
+provide support regarding its use.
+68. Likewise, it was disingenuous for the applicant to contend that it was “unfair”
+for the contract to state that there would be no refund or to allege that the
+respondent pursued him to pay $14,300 on the day the contract was emailed to
+him, or that he was not given an opportunity to read or review the contract, in
+circumstances where the applicant’s wish to put the contract in place and to
+commence currency trading before he went on his cruise was the primary (if not
+sole) reason why the proposed contract was promptly provided by the
+respondent and executed by the applicant.
+69. Where the applicant has succeeded in his primary claim, it follows that the
+respondent should also pay the filing fee ($159.50) and interest under rule 102
++LIIAustLII AustLII AustLII Aust! of the ACT Civil and Administrative Tribunal Procedures Rules 2020 from the
+date on which the applicant filed his application to the date of the Tribunal’s
+order ($555.35).
+………………………………..
+Presidential Member G McCarthy
+Date(s) of hearing 13 & 14 August 2020
+Applicant: In person
+Respondent: M Peters, authorised representative
+Must!Il Aust !!! AustLII AustLi

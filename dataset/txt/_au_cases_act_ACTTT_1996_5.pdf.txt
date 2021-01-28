@@ -1,0 +1,199 @@
+IN THE TENANCY TRIBUNAL } No: TT 35 of 1995
+AT CANBERRA IN THE }
+AUSTRALIAN CAPITAL TERRITORY }
+BETWEEN:
+RONALD & MONICA HARVEY
+APPLICANT
+AND:
++LILAustLII AustLII AustLII Aust
+LEDA COMMERCIAL PROPERTIES PTY LTD
+RESPONDENT
+Reasons for Decision of Magistrate John Burns
+Delivered on the 27th day of August 1996
+The applicants Ronald and Monica Harvey by a Notice of Dispute dated 1 December 1995 s eek orders from this
+Tribunal under section 54 of the Tenancy Tribunal Act 1994 (“the Act”) in the nature of an award of damages
+against the respondent Leda Commercial Properties Pty Ltd. The applicants were parties to a lease with the Must !!! Aust !!! AustLII AustLi
+respondent in respect of retail premises situated within the Tuggeranong Hyperdome.
+The Registrar of the Tribunal has determined that there is no reasonable likelihood of a mediated agreement being
+reached in the dispute and pursuant to section 15 of the Act he has referred the dispute to the Tribunal. The
+respondent has challenged the jurisdiction of the Tribunal to hear the dispute.
+The respondents challenge is based upon Clause 17.07 of the Lease between the applicants and the respondent,
+which provides:
+“Unless application is mandatory by law any statute, proclamation, order, regulation or moratorium
+present or future shall not apply to this lease so as to abrogate, extinguish, impair, diminish, fetter, delay
+or otherwise prejudicially affect any rights, powers, remedies or discretions given or accruing to the
+lessor.”
+At the outset it should be noted that the issue raised by this clause is not really a jurisdictional issue. The issue
+is, succinctly, whether parties to a lease may “contract out” of the provisions of the Act and the Commercial and
+Retail Leases Code of Practice (“the Code”), and if so whether the present clause effectively does so.
+It is convenient to deal with the latter issue first. The Tenancy Tribunal Act and the Code introduce rights and
+obligations for parties to leases that did not exist prior to the Act and Code coming into existence. It also
+removes some pre-existing rights, such as the right to bring proceedings in the Magistrates Court. It was not
+argued on behalf of the applicants that the Act and the Code do not “abrogate, extinguish, impair, diminish etc”
+the rights, powers and remedies of the respondent. In my opinion no such argument could realistically be made.
+I am therefore satisfied that clause 17.07, if given the effect urged by the respondent, would remove the lease
+between the applicant and respondent from the operation of the Act and the Code.
++LILAustLII AustLII AustLII Aust!
+The real question is whether the Tribunal should give effect to the contract. That was the question which Rich J
+posed in Lieberman v Morris (1944) 69 CLR 69, where a pre-nuptial agreement between prospective spouses that
+the prospective wife would not make any claim under Testator Family Maintenance legislation on the estate of
+the husband in the event of the husband’s death was pleaded as a bar to a subsequent application by the wife
+under that legislation. His Honour commenced his answer to that question by observing, at page 84:
+“Prima facie it should, because, as a general rule, a court of justice enforces contracts, and therefore
+treats as no longer available any legal right which has been satisfied or released by contract”
+In my opinion the same principles apply to this Tribunal. The Tribunal should ordinarily seek to uphold and
+enforce contracts, except where it can clearly be shown that there are good reasons not to. There are of course
+well known categories of contracts which the law will not enforce. Contracts which are expressly or implicitly
+prohibited by statute are illegal and are not enforceable at law. Contracts which are contrary to public policy, Must !!! Aust !!! AustLII AustLi
+whilst not illegal, are also unenforceable at law. It was submitted by counsel for the applicant that clause 17.07
+is either unenforceable as contrary to public policy, or prohibited by statute.
+Counsel for the respondent, in his clear and well reasoned arguments, submitted that the Tribunal should take
+into account the following factors in reaching a conclusion that there is no reason either in public policy or
+otherwise not to enforce clause 17.07:
+(a) there is no express prohibition on contracting out contained within the Act or the Code, whereas
+there are express provisions in other Acts: see s.14 Long Service Leave Act 1976; s.14 Annual Holidays
+Act 1973; s.90 Landlord and Tenant Act 1949; s.13 Workers Compensation Act 1951;
+(b) the legislature has made specific reference to certain provisions as being included in leases (Code,
+clause 12) and other provisions as being prohibited (Code, clauses 120, 121), but has not made any
+reference to contracting out clauses;
+(c) the parties have made a binding agreement regarding the exercise of their powers and rights that the
+Tribunal should, prima facie, seek to uphold;
+(d) the tenants’ rights as they existed as at the date of the lease would not be abrogated, the difference
+being that their legal position vis a vis the landlord would be frozen as at the date of entering into the
+lease, with the result that any allegation by the tenant of breach of the lease would be brought before
+the ordinary courts of the Territory.
++LILAustLII AustLII AustLII Aust! In his submission counsel for the Director of Consumer Affairs cited Chitty on Contracts 26th edition, 1989
+paragraph 1143:
+“Difficult questions can arise where a person attempts by contract to waive a right conferred on him by
+statute. Although there is a general principle that a person may waive any right conferred on him by
+statute (quilibet potest renunciare juri pro se introducto) difficulties arise in determining whether the
+right is exclusively personal or is designed to serve other more broad public purposes.
+In the latter situation, public policy would require that the right be treated as mandatory and not be
+waivable by the party for whose benefit it operates.
+Whether a statutory right is waivable depends on the overall purpose of the statute and whether this
+purpose would be frustrated by permitting waiver.”
+Must!Il Aust !!! AustLII AustLi
+It cannot be doubted that, as a general principle, contractual provisions that are contrary to public p olicy will not
+be enforced: see A. & others v Hayden and others (1984) 156 CLR 532.
+The extent to which the Courts should imply public policy considerations within statutes to determine the issue
+of contracting out was considered by Latham CJ in Lieberman v Morris (supra) where his Honour observed:
+“(I)t is not for a Court to invent a new head of public policy upon the basis of a speculation or belief
+that if the legislature had directed its attention to the question whether persons should be allowed to
+renounce statutory benefits the legislature would have provided that any such renunciation would have
+been ineffective. It is quite easy for parliament if it wishes to do so, to provide against what is
+generally called “contracting out”. (at page 81) ....
+In the present case there is no such provision contained in the Act, and the Court should not be ready
+to imply such a provision simply upon the basis that the Act in a general kind of way, as evidenced by
+its title, its subject matter or the general character of its provisions, indicates an intention to establish a
+new general principle of public policy. (at page 82)
+All general statutes give effect to some public policy and many of them confer benefits or advantages
+upon individuals in pursuance of the general policy of a statute. In my opinion arguments based upon
+the general character of the Act ... do not show with reasonable certainty that the legislature intended to
+prevent possible applicants under the Act from effectively agreeing to abandon the ir rights”. (at page
+82)
+It is important in determining whether to interpret clause 17.07 of the lease in such a way as to allow contracting
++LILAustLII AustLII AustLII Aust! out of the provisions of the Code and the Act, to have regard to both of those documents and any other material
+capable of assisting with interpreting the intention of the legislature as embodied in those documents.
+The Act is entitled “An Act to establish a Tenancy Tribunal and other special procedures for resolving disputes
+about certain types of leases, to provide for a Code of Practice about such leases and for related purposes.”
+Section 5 of the Act provides that the Act “ ... applies to a lease for premises, situated in the Territory, of any of
+the following kinds ... and then specifies the types of premises to which the Act applies, with particular
+reference to “retail premises, or premises located in a shopping centre”, with certain exclusions therein set out.
+Section 8 of the Act, the transitional provisions, as amended, make it clear that in respect of most disputes
+referred to in section 6 of the Act come within the ambit of the Act if the lease in question was “entered into,
+varied, renewed or extended under an option, before, on or after” 1 January 1995.
+The Act is broadly framed and is obviously intended to apply to all leases that come within the ambit of sections Must !!! Aust !!! AustLII AustLi
+5 and 8 of the Act. It provides for mediation of disputes and for determination of disputes by the Tribunal. It
+also provides the machinery for enforcement of the provisions of the Code.
+The Code itself is approved by the Minister (section 75 of the Act) and is a disallowable instrument for the
+purposes of section 10 of the Subordinate Laws Act 1989 (section 76 of the Act). Pursuant to clause 5 of the
+Code, the Code applies to leases entered into, renewed or extended under an option or varied on or after the
+commencement of the Code, that date being 1 January 1995. Clause 6 of the Code narrows the operation of
+Clause 5 in relation to the premises within the ambit of the Code, but again with particular reference to “retail
+premises, or premises located in a shopping centre”.
+Clause 10 requires parties to a lease in their dealings with each other to conduct themselves in accordance with
+the Code. Clause 11 provides that where there is an inconsistency between the Code and the provisions of a
+lease or an agreement to lease, the Code is to prevail.
+The Code contains provisions, inter alia,:
+ prohibiting parties to a lease from engaging in conduct that is unconscionable, coercive or harsh and
+oppressive (clause 13);
+ regulating the conduct of parties during the negotiation of leases, and providing certain remedies for breach
+of the Codes provisions (Part 3, Division 2);
+ regulating lease costs (Part 3, Division 2);
+ regulating the terms of a lease, specifically in relation to the minimum term (Part 3, Division 4);
+ regulating the setting of rents, and their review (Part 3, Division 6);
+ regulating assignment and sub-leasing (Part 3, Division 9); and
+ regulating termination and renewal of leases (Part 3, Division 10).
++LILAustLII AustLII AustLII Aust! In addition the Code contains provisions specifically regulating the conduct of parties to leases of premises in
+“shopping centres”, the definition of which would include shopping malls such as the Tuggeranong Hyperdome
+(Part 4).
+Counsel for the Director of Consumer Affairs referred the Tribunal to the presentation speech of the then
+Attorney-General, Mr Connelly, in respect of the Tenancy Tribunal Bill, which subsequently became the Act. In
+that speech the Attorney-General stated:
+“As members would be aware, this government has been actively attempting to resolve concerns about
+the imbalance of market power in the area of retail and commercial tenancies.
+The number of complaints to the Consumer Affairs Bureau concerning business leases, and the conduct
+which the bureau has identified, support claims about an imbalance in the market, which is open to
+exploitation, primarily to the disadvantage of tenants. Must !!! Aust !!! AustLII AustLi
+While the government recognises that many commercial and retail landlords and tenants enjoy good
+business relationships which are not marred by leases which unduly favour either party, the evidence is
+that there remains a significant number of commercial and retail tenancy arrangements which leave
+tenants, in particular, very vulnerable.
+The high percentage of retail outlets situated in large shopping centres, which is a particular
+characteristic of the A.C.T. retail market, has compounded the problems of territory retail tenants. In
+other retail markets there is a greater diversity of retail sites, including many more “street front” sites,
+giving tenants some additional bargaining power and options other than location in one of the large
+regional shopping centres.
+However, the problem of an imbalance between bargaining powers of commercial and retail landlords
+and tenants is by no means unique to the A.C.T. It is a problem which other Australian jurisdictions,
+including most recently New South Wales, have acknowledged and addressed by enacting legislation
+to prohibit the operation of unfair provisions in retail leases and to provide tenants with remedies and
+protection from the operation of particularly harsh terms and conditions in such leases.
+Members would be aware that the government initially sought, rather than to legislate, to work in
+consultation with representatives of landlord and tenant groups to develop a Code of Practice
+acceptable to all parties. It was intended that such a Code would be adopted and complied with on a
+voluntary basis.
+Unfortunately, in spite of the considerable time and effort expended in attempting to arrive at a
+AustLII AustLII AustLII Aust!
+voluntary Code with which all the parties could comply, it has not been possible to reach unanimous
+agreement.
+For that reason, in April this year, I advised of the governments intention to develop a Code, in
+tLIL consultation with the relevant parties, which would be approved and enforced under legislation.”
+In Johnson v Moreton (1980) AC 37 the House of Lords considered the question whether parties to an
+agricultural tenancy could contract out of the provisions of the Agricultural Holdings Act 1948 which guaranteed
+security of tenure to tenant farmers. In that case both Lord Salmon and Lord Simon of Glaisdale took a
+purposive approach to the interpretation of the Agricultural Holdings Act. Lord Simon commented:
+“Where it appears that the mischief that Parliament is seeking to remedy is that a situation exists in
+which the relations of parties cannot properly be left to private contractual regulation, and Parliament
+therefore provides for statutory regulation, a party cannot contract out of such statutory regulation TustLI Aust !!! AustLI AustLi
+(albeit exclusively in his own favour) because so to permit would be to reinstate the mischief which the
+statute was designed to remedy and render the statutory provisions a dead letter” (at p.69)
+A similar purposive approach to the interpretation of the Aboriginal Land Rights (Northern Territory) Act 1976
+lead to the determination that contracting out of the procedures required by the Act for approval of mineral
+exploration and mining was not permitted: see Northern Territory of Australia v Northern Land Council and
+Others (1992) 81 NTR 1.
+In addition in Johnson v Moreton Lord Hailsham referred to the Agricultural Holdings Act as being passed for
+the protection of “a class of persons who do not negotiate from a position of equal strength”, and that “It is
+precisely (the tenant’s) weakness as a negotiating party from which Parliament wishes to protect him”. (page 60)
+The Attorney-General’s presentation speech succinctly presents the object of the Act. The object of the Act is
+to, at least in large part, resolve concerns arising out of inequality of bargaining power between tenants and
+landlords, in the particular circumstances of the Australian Capital Territory retail market place. That particular
+market place is highly idiosyncratic, largely as a result of the lack of diversity of retail sites available, and the
+concentration of many of the retail tenancies within large shopping centres or malls.
+To adopt an interpretation of the Act that would allow contracting out of the provisions of the Act or the Code
+would, in the circumstances of the A.C.T. retail rental market place, inevitably lead to the provisions of the Act
+and the Code becoming a dead letter. An interpretation that achieves the legislative intention of the Act is to be
+preferred over one which results in the Act, and the Code, becoming irrelevant.
+In my opinion this conclusion is not based on the Tribunal finding that the Act creates a new head of public
++LILAustLII AustLII AustLII Aust! policy rendering clause 17.07 unenforceable, it is a matter of statutory interpretation. There is much to be said
+for the proposition referred to by Lord Simon in Johnson v Moreton (supra) that it would be anomalous to
+contemplate a situation where an Act that on its face clearly sets outs to regulate agreements between parties
+could be avoided by a clause within the very class of agreement that it is intended to regulate. This is
+particularly so where the statutory provisions are enacted to redress inequality between the bargaining parties.
+I am therefore satisfied that the Act and Code impliedly prohibit the parties from contracting out of their
+operation. It is unnecessary to make any orders at this time. Clause 17.07 of the lease in question commences
+with the phrase “Unless application is mandatory by law...”. I am satisfied that both the Code and Act are
+mandatory, and accordingly clause 17.07 simply does not apply.
+The other issues raised by the respondent in its submissions are more conveniently to be dealt with on the
+hearing of this matter, after the taking of evidence.
+Must !!! Aust !!! AustLII AustLi

@@ -1,0 +1,653 @@
+ACT CIVIL & ADMINISTRATIVE TRIBUNAL
+BOLARAM v AUSTRALIAN CAPITAL TERRITORY AND ORS
+(Civil Dispute) [2020] ACAT 108
+XD 544/2020
+Catchwords: CIVIL DISPUTE – claim for damages arising out of validly
+issued stop notice on the grounds that work carried out
+otherwise than in accordance with approved plans and in breach
++LIIAustLII AustLII AustLII Aust! of the Building Act – subsequent refusal to cancel stop notice –
+certifier incorrectly assessed development as DA exempt and
+issued building approval – approval requirements not met
+because development does not comply with R11 (front setback)
+of the Single Dwelling Housing Development Code –
+development exceeds maximum permissible plot ratio of 50% as
+a result of unauthorised enclosure of veranda after stop notice
+issued – other unauthorised alterations to alfresco and terrace
+areas carried out before stop notice was issued may require
+additional areas to be included in calculation of gross floor area
+– claim dismissed – turns on its own facts – no issue of principle
+involved
+Legislation cited: ACT Civil and Administrative Tribunal Act 2008, ss 18, 20
+Building Act 2004 ss 29, 30, 32, 53, 55, 128, 149
+Civil Law (Wrongs) Act 2002 Chapter 8
+Construction Occupations Licensing Act 2004, ss 103, 105
+Planning and Development Act 2007 ss 133, Division 7.2.3
+Public Sector Management Act 1994 s 21(8) Must!Il Aust !!! AustLII AustLi
+Subordinate
+Legislation cited: Single Dwelling Housing Development Code, R1, R11
+Territory Plan - Definitions
+Tribunal: Senior Member M Orlov (Presiding)
+Senior Member G Trickett
+Date of Orders: 11 December 2020
+Date of Reasons for Decision: 11 December 2020
+AUSTRALIAN CAPITAL TERRITORY )
+CIVIL & ADMINISTRATIVE TRIBUNAL ) XD 544/2020
+BETWEEN:
+VENUMADHAVA RAO BOLARAM
+Applicant
+AND:
+AUSTRALIAN CAPITAL TERRITORY
+First Respondent
++LIIAustLII AustLII AustLII Aust! BEN GREEN
+Second Respondent
+JADE WALTERS
+Third Respondent
+TRIBUNAL: Senior Member M Orlov (Presiding)
+Senior Member G Trickett
+DATE: 11 December 2020
+ORDER
+The Tribunal orders that: Must!Il Aust !!! AustLII AustLi
+1. The application is dismissed.
+………………………………..
+Senior Member M Orlov
+For and on behalf of the Tribunal
+REASONS FOR DECISION
+Introduction and overview
+1. The applicant, Mr Bolaram, owns a block of land in Lawson with his wife on
+which he is attempting to complete the construction of a substantial new home
+as an owner builder. Building approval for the works was suspended on 3
+December 2019 when a building inspector working in the Rapid Regulatory
+Response Team (RRRT) of Access Canberra, issued a stop notice under section
+53 of the Building Act 2004 (Building Act). An application to the Construction
+Occupations Registrar for cancellation of the stop notice under section 55 of the
+Building Act was refused on 21 May 2020. The stop notice remains in force.
+2. +LIIAustLII AustLII AustLII Aust! The applicant claims that the Australian Capital Territory (Territory), Access
+Canberra, Ms Jade Walters (the building inspector who issued the stop notice)
+and Mr Ben Green (the Construction Occupations Registrar), are liable to him
+for damages in tort, nuisance, under the Australian Consumer Law (ACL) and
+under the Building Act, for loss suffered as a result of continuing delays and
+additional costs caused by the stop notice remaining in force.
+3. Access Canberra is a business unit1 within the Chief Minister, Treasury and
+Economic Development Directorate of the Territory. It is not a separate legal
+entity that can sue or be sued and accordingly, is not a proper party to the
+application. The proper respondent is the Territory.
+4. The second respondent, Mr Ben Green, is the Construction Occupations Must!Il Aust !!! AustLII AustLi
+Registrar (Registrar) appointed under section 103 of the Construction
+Occupations Licensing Act 2004 (COL Act). He is responsible, among other
+things, for exercising certain functions under the Building Act, including
+deciding an application by a landowner under section 55 of the Building Act for
+cancellation of a stop notice. The decision to refuse the application in this case,
+however, was made by the Deputy Construction Occupations Registrar, Mr
+Nicholas Lhuede, pursuant to a delegation of the Registrar’s functions under
+section 105 of the COL Act. 2 There is no evidence that Mr Green was involved
+Public Sector Management Act 1994, section 21(8)
+2 Construction Occupations (Building) Delegation 2018 (No 1)
+in the initial decision to issue the stop notice, the subsequent decision not to
+cancel the stop notice, or otherwise had any relevant dealings with the applicant.
+5. The third respondent, Ms Jade Walters, is a building inspector appointed under
+section 128 of the Building Act and at all material times was authorised by
+section 53(2) to issue a stop notice in the circumstances provided for in section
+53(1).
+6. Section 149 of the Building Act states:
+(1)The construction occupations registrar, a building inspector, or a
+person who was the registrar or an inspector, is not civilly or
+criminally liable in relation to anything done or omitted to be done
++LIIAustLII AustLII AustLII Aust! honestly by him or her in the exercise of a function under this Act.
+(2)A civil or criminal liability that would, apart from this section, attach
+to the construction occupations registrar or a building inspector
+attaches instead to the Territory.
+7. Section 149 is a complete defence to the applicant’s claims against Ms Walters
+and Mr Green (apart from the fact that Mr Green does not appear to have had
+any relevant involvement). The applicant does not allege that either respondent
+failed to act honestly in doing or omitting to do anything in the exercise of their
+respective functions in relation to issuing, or refusing to cancel, the stop notice.
+Even if such an allegation had been made, section 149(2) makes it clear that
+liability would attach to the Territory alone.
+8. By an amended Civil Dispute Application dated 19 October 2020, the applicant
+Must!Il Aust !!! AustLII AustLi
+sought damages quantified at $110,311.48. The tribunal’s jurisdiction is limited
+by section 18(2)(a) of the ACT Civil and Administrative Tribunal Act 2008
+(ACAT Act) to civil dispute applications claiming amounts of not more than
+$25,000. At the start of the hearing the applicant abandoned the claim for the
+excess by limiting his claim to $25,000. This is permissible under section 20(2)
+of the ACAT Act. The Tribunal therefore has jurisdiction to decide the
+application.
+9. The applicant also sought an order in the following terms:
+I would like to request ACAT to issue a very strong warning and notice to
+ACCESS CANBERRA and its relevant government departments and
+Officers to rectify all the Housing Development documents and send all
+the inexperienced staff back to appropriate training to follow the rules,
+regulations, delivering service knowledge, and improve the reading skills
+to interpret the documents and its contents correctly & more precisely to
+the public, as they are in a position to deliver the valued public services to
+the people by representing top state government departments.
+10. The Tribunal does not have jurisdiction to make such an order.
+11. The only issue the Tribunal must decide is whether the Territory is liable to pay
+damages to the applicant for the losses he claims.
+12. The Tribunal is satisfied that the claim must be dismissed. The following
+reasons explain why the Tribunal has come to that conclusion.
+Background +LIIAustLII AustLII AustLII Aust!
+13. The applicant and his wife are joint lessees of Block 5 Section 45 Lawson (the
+land). The land fronts onto Dawn Crescent to the north and is separated from
+the road by a concrete pathway and verge.
+14. On the opposite (northern) side of Dawn Crescent, extending in an easterly
+direction for a short distance and in a westerly direction to the shore of Lake
+Ginninderra is a 130,785m2 area of vacant urban approved land3 comprising
+Block 1, Section 56 Lawson. The northern boundary of that block adjoins a
+1,426,988m 2 area of Commonwealth land (formerly the Belconnen Naval
+Transmitting Station) comprising Block 2, Section 6 Lawson, part of which
+Defence Housing Australia proposes to develop as an urban area known as
+Lawson North. 4 Figure 2 in the Lawson South Concept Plan shows a grassland Must!Il Aust !!! AustLII AustLi
+buffer zone to the north of where Dawson Crescent is now located (although
+streets are not shown) with a note stating: “Grassland buffer is to apply unless
+otherwise indicated though a development control plan for Lawson North
+(Commonwealth land) approved by the National Capital Authority”. Figure 2 in
+the Development Control Plan for Block 2 Section 6 and Block 1 Section 16
+Lawson (Belconnen Naval Transmitting Station) approved by the National
+Capital Authority on 12 February 2013, depicts a strip of land adjoining the
+northern boundary of Block 1 Section 56 described as an “asset protection
+3 https://app.actmapi.act.gov.au/actmapi/index.html?viewer=basic
+4 https://www.dha.gov.au/development/residential/lawson-act
+zone”.5 The area may be used as an Outer Asset Protection Zone for the purpose AustLII AustLI
+of providing bushfire protection to adjoining development in Lawson South.6
+15. We mention these matters because both parties appear to assume that the land
+on the opposite side of Dawn Crescent is open space, but neither has provided
+the Tribunal with evidence of the fact. We are satisfied that it is appropriate to
+treat it as such for the purposes of this application.
+16. The applicant’s land is 888m2 in area. The maximum permissible plot ratio for a
+single dwelling on a large block under R1 of the Single Dwelling Housing
+Development Code (SDHDC) is 50%. The maximum permissible gross floor
+area (GFA) of the building therefore is 444m2
++LIIAustLII AustLII AustLII Aust! .
+17. GFA is defined in the Territory Plan. The relevant part of the definition
+applicable to this development is “the sum of the area of all floors of the
+building measured from the external faces of the exterior walls”.
+18. Arch Space Design prepared plans for a seven-bedroom, two storey home in
+early March 2018 (original plans). The original plans state the internal area of
+the ground floor, garage and upper level as 444m2 and the total area under cover
+as 612m 2 including two alfresco areas (65m2 ), two verandas (45m2 ), a porch,
+,
+balcony and covered terrace (40m2 ). They also show an open terrace on the
+upper level (40m2 ), which is not included in the covered area calculations.
+19. The applicant appointed Mr John Bates as the certifier for the project (the Must!Il Aust !!! AustLII AustLi
+certifier). On 24 May 2018, the certifier issued an Exemption Assessment D
+Notice certifying that the site work shown on the original plans is an exempt
+development under section 133 of the Planning and Development Act 2007
+(Planning Act) – i.e. the development does not require development approval.
+On the same day, the certifier issued a building approval for the site work under
+section 29 of the Building Act.
+5 https://www.nca.gov.au/sites/default/files/DCP-1209-Block-2-Section-6-Block-1-Section-
+16%20-Lawson-%20Belconnen-Naval-Transmitting%20Station.pdf
+6 See paragraph 4.20 (Precinct D – Desired Planning Outcomes)
+20. The applicant was issued with an Owner Builder Licence on 22 June 2018 and
+subsequently commenced building work.
+21. The Construction and Utilities Branch of Access Canberra includes a
+Construction Audit Team (CAT), the functions of which include to inspect
+building sites around Canberra to determine whether building work is being
+carried out in accordance with the Building Act. Ms Tamara Blissenden is a
+building inspector appointed under section 128 of the Building Act and has
+worked in the CAT since October 2012.
+22. On 22 November 2019, Ms Blissenden conducted a routine inspection of the
++LIIAustLII AustLII AustLII Aust! building works on the applicant’s land. She identified several changes to the
+dwelling that were not shown on the approved plans, which she photographed
+and documented in a building works inspection report. She observed that some
+areas marked as terraces on the approved plans were enclosed with walls and
+under the roofline, causing her to be concerned that the areas should be included
+in the calculation of GFA. Her report includes a recommendation that “a stop
+notice be issued and the items identified in the report be brought to the attention
+of the building certifier and builder for appropriate action. In addition an audit
+against the single dwelling housing development code to be undertaken to verify
+compliance with total gross floor area.”7 Before finalising the report,
+Ms Blissenden discussed the proposed recommendations with her supervisor,
+Mr Brian Connors, who agreed with them. Mr Connors is the Assistant Director
+Must!Il Aust !!! AustLII AustLi
+of the CAT.
+23. Ms Blissenden emailed a copy of the report to the certifier and the applicant on
+26 November 2019, noting that any amended plans must be submitted within
+14 days unless an extension of time was requested.
+24. At about the same time, Mr Connors forwarded the inspection report to the
+Rapid Regulatory Response Team (RRRT) for action. In accordance with
+internal procedures being trialled at the time, the CAT was responsible for
+performing inspections and preparing building inspection reports. If further
+7 Exhibit 1 page 9
+action was required, including issuing a stop notice, the report was referred to
+the RRRT for action.
+25. The third respondent, Ms Walters, is a building inspector working in the RRRT.
+She issued a stop notice to the applicant on 3 December 2019. The grounds
+stated in the notice are that building work is being carried out otherwise than in
+accordance with the approved plans for the work and contrary to a provision of
+the Building Act relating to the building work. 8 The notice relevantly states:
+I, Jade Walters, Building Inspector, hereby prohibit carrying out of
+building work (proposed DA exempt single dwelling house) being
+erected on the above mentioned parcel of land, pursuant to section 53(1)
+of the Building Act 2004, until following matters have resolved:
++LIIAustLII AustLII AustLII Aust!
+1. Building Approval plans amended to show openings on external walls
+consistent with the as [sic] built construction;
+2. Any changes to the terraces, alfresco (if enclosed) areas must be
+counted against the permissible Plot ratio requirements for the block.
+(Original emphasis)
+26. The stop notice suspended the operation of the building approval issued on
+24 May 2018 in relation to all building work under the approval.9
+27. An internal audit of the original plans by the CAT on 16 December 2019 did not
+identify any issue with the GFA based on the areas provided on the site plan,
+but found that the development did not comply with R10 (Bushfire), R11 (front
+boundary setbacks – all blocks), R12 (side and rear setbacks – all blocks) and
+R17 (allowable encroachments – setbacks) of the SDHDC. 10 Must!Il Aust !!! AustLII AustLi
+28. The applicant commissioned a drafting service to prepare amended plans, which
+are dated 6 December 2019 (amended plans), showing changes he had made to
+the building. On 20 December 2012, the certifier purported to approve the
+amended plans and amend the building approval under section 32 of the
+Building Act. The certifier lodged the approved amended building plans with
+Access Canberra on 23 December 2019.
+8 Exhibit 1 page 19
+9 See section 53(3) of the Building Act
+10 Exhibit 1 pages 73-81
+29. Ms Blissenden audited the amended plans in early January 2020 against the
+requirements of the SDHDC. She considered that the original issue of non-
+compliance with the approved original plans was rectified by the amended plans
+– i.e., the amended plans now showed the work as built – but identified several
+issues where the development did not comply with the SDHDC, which she
+brought to the attention of the certifier and the applicant in an email dated
+17 January 2020. The email identified the following issues as requiring action:
+Rule 1 – GFA – GFA has been calculated to exclude alfresco, veranda
+and terraces. These areas are under the roofline and are substantially
+enclosed (enclosed on more than 2 sides) and must be included in the
+GFA.
+AustLII AUstLII AustLll Austi
+Rule 11 – Front Boundary setback - the upper balcony is not set back 6m.
+A balcony is not an allowable encroachment under rule 17.
+Rule 12 – Side and rear setbacks - Upper bed 3 window unscreened, must
+be 6m setback for unscreened. Window has a sill height of 1.35m, must be
+1.7m high to be part of external wall. Eastern upper story has no
+tLI measurements on plans showing setback.
+Rule 43 – Water sensitive urban design - 5000L tank required. 4000L tank
+indicated on plans.
+The stop notice will remain in place until all the above issues have been
+addressed. [Original emphasis]
+30. The applicant sent an email to the CAT on 29 January 2020 with the subject
+heading “Request to eliminate the Stop Note immediately – Block 5, Section 45
+Lawson”11 in which he claimed that the amended plans “fully complied” with
+–
+the SDHDC and that, as the certifier had approved the amended plans and
+Must!Il Aust !!! AustLII AustLi
+amended the building approval, the CAT should lift the stop notice. He
+complained that, instead of doing so “the CAT team brought forward 4 more
+new concerns in which 2 of them are totally irrelevant to the block against the
+approved plans”.
+31. The applicant argued that the calculation of GFA correctly excluded alfresco,
+veranda and terrace areas “as they are external elements per SDHDC” for the
+following reasons: 12
+11 Exhibit 1 page 25
+12 Exhibit 1 page 25
+1. Alfresco 1 and Alfresco 2 have 2 openings at East Wall and South
+Walls, as shown in the plans, which are not enclosed and kept open to
+meet the planning requirements. Hence, they do not need to be
+included in the GFA. As per the SDHDC, there is NO particular Rule
+or Criteria is specified to have certain openings or size for Alfrescos.
+2. Each Terrace at upper floor have 2 openings, which have minimum of
+1.7/1.8 privacy walls/screens as per the planning requirements. As per
+the SDHDC, there is NO particular Rule or Criteria is specified to
+have certain openings for Terraces.
+3. Veranda 1 and Veranda 2 has one side full openings, which is being
+practical to the building design in consideration with SDHDC.
+However, per the SDHDC, there is NO particular Rule or Criteria is
+specified to have certain openings for Verandas.
+32. He stated that the front boundary of the land was to open space, which meant
++LIIAustLII AustLII AustLII Aust!
+that the minimum upper floor balcony setback was 4m in accordance with Table
+2C of R11, and not 6m as the CAT claimed. 13
+33. The applicant advised that the window to bedroom 3 would be screened by
+plantation shutters or would have frosted glass before a certificate of occupancy
+was issued, and that a 5000L tank would be installed.14
+34. The email concluded with a request that the stop notice be lifted immediately
+and referred to the financial and personal stress the situation was causing him
+and his family.15
+35. On 6 February 2020, Mr Connors and Ms Blissenden met with the applicant and
+the certifier to discuss the issues of non-compliance. Ms Blissenden explained
+Must!Il Aust !!! AustLII AustLi
+that “even if the areas are described as ‘terraces or verandas’ on the plans, if
+they have more than two walls and are under the roofline then they must be
+included in the gross floor area calculation”.16 The applicant maintained that the
+CAT’s approach to the GFA and front boundary set back issue was based on an
+incorrect interpretation of the SDHDC.
+13 Exhibit 1 page 26
+14 Exhibit 1 page 27
+15 Exhibit 1 page 27
+16 Exhibit 3 paragraph 36
+36. The next day, Mr Connors sought advice from the Territory Plan Section about
+the front boundary setback issue. Ms Alex Kaucz, who is the Senior Director of
+the Territory Plan Section in the Planning, Land and Building Division of the
+Environment, Planning and Sustainable Development Directorate, responded by
+email on 7 February 2020 relevantly as follows:
+The dwelling must comply with the standard front boundary setback (i.e.
+UFL at 6m) as the front boundary is a street frontage. The front boundary
+is considered to be open space when the boundary directly touches the
+open space and not if there is a road separating them.
+37. On 2 March 2020, Mr Connors and Ms Blissenden met with the certifier to
+discuss his proposals to rectify the issues of non-compliance. The certifier
++LIIAustLII AustLII AustLII Aust! advised that he would prepare and submit amended plans setting out his
+proposals. 17
+38. Mr Connors emailed the certifier on 17 March 2020 to follow up on the
+proposed plan changes.18 The certifier replied on 4 April 2020:
+I would like to send through the proposed plan changes that I discussed
+with you on 2 March 2020.
+However, I must firstly obtain the owners permission/agreement and this
+is not forthcoming.
+The owner feels that he has been treated unfairly in that the SDHC is not
+specific on how non habitable areas such as alfrescos, verandas, porches
+and the like are treated in respect to the GFA calculation. The owner and
+I did talk to an ACT Government Planner/Architect about it and they were
+similarly doubtful about interpretation.
+Must!Il Aust !!! AustLII AustLi
+In the circumstances, I consider that the owner should be given the benefit
+of the doubt and that my Building Approval should be upheld and the Stop
+Work Notice should be lifted.
+There is also the allegation that the decision to issue the Stop Work Notice
+was tainted and if this is verified it could be very painful for those
+involved.
+39. The allegation mentioned in the last paragraph of the email concerns a claim by
+the applicant that Ms Blissenden was related to an electrician with whom the
+17 Exhibit 3, paragraph 41
+18 Exhibit 1 page 41
+applicant had been in dispute over “pricing and unethical behaviour”19 AustLII AustLI The
+.
+Tribunal infers that the applicant was suggesting that this may have influenced
+her conduct in the matter. Ms Blissenden denied the allegation on oath in her
+statement and in her oral evidence to the Tribunal.20 The Tribunal accepts
+Ms Blissenden’s evidence about this.
+40. The applicant filed a civil dispute application in the ACAT on 22 April 2020,
+claiming damages of $24,800 for additional costs incurred due to the stop notice
+remaining in place.
+41. The applicant’s email to the CAT dated 29 January 2020, mentioned earlier,
+was +LIIAustLII AustLII AustLII Aust! drawn to the attention of the Deputy Construction Occupations Registrar,
+Mr Nicholas Lhuede, on about 5 May 2020. By then, the Construction and
+Utilities Branch had decided to treat the applicant’s email as an application
+under section 55 of the Building Act for cancellation of the stop notice. 21
+42. As part of his investigations, Mr Lhuede asked Ms Blissenden to prepare a GFA
+calculation based on the amended plans. A copy of her calculations is in
+evidence. 22
+43. On 21 May 2020, Mr Lhuede gave notice to the applicant of his decision not to
+cancel the stop work notice. The notice gives the following reasons for decision,
+which it is appropriate to reproduce in full:
+16. In making a decision on whether or not to cancel the stop notice under Must!Il Aust !!! AustLII AustLi
+section 55, I must consider –
+(a) The application; and
+(b) The reasons why the stop notice was given; and
+(c) The current state of the building work to which the notice relates.
+17. I am satisfied of the following:
+a. With regard to Rule 1 of the SDHDC, the GFA calculations for
+the development must include the substantially enclosed
+alfresco, terraces and balconies. On this basis, the Calculated
+GFA is 642.94m2 for a block size of 888m2 This provides a
+.
+19 Exhibit A, applicant’s letter to the Registrar dated 22 October 2020 (3rd paragraph on the 2nd
+page)
+20 Exhibit 3 paragraphs 45-46
+21 Exhibit 4 paragraph 14
+22 Exhibit 1 pages 151-153
+percentage of 72.4%, therefore the mandatory maximum plot
+ratio allowance of 50% has been exceeded.
+I am satisfied that the development does not meet rule 1 of the
+SDHDC and as a consequence is not exempt from requiring a
+development approval under the Planning and Development
+Act 2007 unless the development is altered to be compliant.
+b. With regard to Rule 11 of the SDHDC, the upper balcony faces
+a roadway and is not set back 6m and does not comply with
+Table 2C: front boundary setbacks – large blocks in
+subdivisions approved after 2008.
+I am satisfied that the development does not meet rule 11 of the
+SDHDC and as a consequence is not exempt from requiring a
+development approval under the Planning and Development
+Act 2007 unless the development is altered to be compliant.
++LIIAustLII AustLII AustLII Aust! c. With regardRule 12 – Side and rear setbacks. Rule 12 has now
+been met as the certifier provided amended plans on 23
+December 2019 that show screens to the windows and setbacks
+indicated.
+d. With regard Rule 43 – Water sensitive urban design. Rule 43
+has now been met as the certifier has provided amended plans
+on 23 December 2019 showing a 5000L tank indicated on the
+plans.
+18. The reasons given in the application to cancel the stop work notice
+have been considered and I am satisfied that they have been
+appropriately addressed both within this decision document and in
+efforts to engage with the builder and building certifier.
+19. I am satisfied that the grounds under s53(1)(d) and Section 53(1)(d) to
+issue a the notice still exist under rules 1 and 11 of the SDHDC.
+Notwithstanding other matters in the notice were addressed, the issues
+associated with rules 1 and 11 are of significance and warrant the
+issuance of this notice in their own right. Must!Il Aust !!! AustLII AustLi
+20. Section 55(4) also gives provides me the discretion to cancel the stop
+work notice if I am satisfied that the cancellation will not endanger the
+public or people who will use the building on which the building work
+is being done, or affect public confidence about the standard of
+building work in the ACT.
+21. The matters relating to rules 1 and 11 of the SDHDC do not endanger
+the public or building users in this case. However revoking the stop
+notice while the two of the five original grounds for issuance still exist
+may affect public confidence in the role of the regulator and about the
+standard of building work in the ACT.
+22. I have decided that it is not appropriate for me to cancel the stop work
+notice under section 55(4) of the Building Act [errors in original]
+44. On 27 May 2020, the applicant emailed Mr Lhuede in response to the Notice of
+Decision, taking issue with Mr Lhuede’s reasons for decision and venting his
+frustration at the process and, as he sees it, the apparent inability of the CAT to
+understand the meaning of R1 and R11 of the SDHDC as those rules apply to
+his development. 23 The email ends with the following demands: 24
+Not to elaborate anymore further here I request you again to cancel the
+STOP NOTE immediately which raised against to my approved building
+plans. All the structures were built based up on the Original building
+development plans, which were approved in 2018 and the minor
+amendments I made which were reapproved again by an authorised and
+experienced Building Certifier, hence I would not need to make any
+further modifications.
++LIIAustLII AustLII AustLII Aust! Please I request you to respond back by this Thursday COB with the
+STOP NOTE cancellation, otherwise as I will not be having any other
+option left, where I will take the issue to the High Court and claim as
+mentioned compensations from ACCESS Canberra and CAT Employees
+including the decision makers.
+Also, I need an apology from your building inspectors, who misbehaved
+and dis-respected me and took me for granted to drag this issue for
+longer.
+45. Mr Lhuede did not respond to the email. A mediation held on 27 July 2020
+failed to resolve the dispute.
+46. In response to an email from the applicant dated 4 August 2020 in which he set
+out a series of questions, 25 the ACT Government Solicitor wrote to the applicant
+on 4 September 2020 explaining the Territory’s position in relation to the front
+boundary set back and GFA issues, among other things. AustLI Aust!Il AustLI AustLi
+47. With respect to the front boundary setback, the letter states:26
+4. Interpretation of R11 by reference to the subject site: The northern
+boundary of the subject site adjoins a “road” as defined…27 and is
+23 Exhibit 1 pages 87-97
+24 Exhibit 1 page 97
+25 Exhibit 1 page 273
+26 Exhibit 1 page 289
+27 ‘Road’ is defined in the Territory Plan to mean “any way or street (so called), whether in
+existence or under reserve, open to the public which is provided and maintained for the passage
+of vehicles, persons and animals and which may include footpaths, community paths, bus lay-
+bys, light rail tracks, or traffic controls.”
+therefore a “front boundary”.28 As per Table 2C (which applies to AustLII AustLI
+large blocks in subdivisions approved on or after 31 March 2008, and
+therefore applies to the subject site), the minimum front boundary
+setback is 4m on the lower floor level and 6m at the upper level. The
+garage is to be setback 5.5m and a minimum of 1.5m behind the front
+building line29 except where there is a courtyard wall in the front zone.
+48. Later, the letter states:
+10.The upper floor level balcony is more than 1.5m above the finished
+ground level and is therefore part of the building and is used to
+establish the building line. The upper floor level balcony is setback
+4.260m from the northern front boundary. This is less than the
+minimum 6m required by Rule R11 of the SDHDC.
+11.Rule R11 has a corresponding criterion (C11) which may be
++LIIAustLII AustLII AustLII Aust! considered subject to the submission of a Merit Track development
+application (DA). This will require you to justify, through the DA, how
+the upper floor level balcony meets Criteria C11 of the SDHDC
+(please see more information below on submission of a DA).
+49. With respect to the GFA issue, the letter states:
+5. The plans as submitted on 23 December 2019 show a Veranda 1,
+Veranda 2 and an Alfresco 1 on the ground floor and, a roofed terrace
+with outdoor kitchenette accessed from the living area, a roofed
+terrace accessed from Bed 3 and a small roofed terrace accessed
+through the Walk In Robe (WIR). Some of these rooms as depicted on
+the plans are considered to contribute to the GFA because a
+measurement can be taken between their walls as outlined in the
+definition of GFA…This therefore takes the total GFA for the
+development above 444m2 and exceeds the 50% plot ration in
+contravention of R1.
+6. Verandah 1 and Verandah 2 are substantially open to ground level and Must!Il Aust !!! AustLI AustLi
+accessible at grade from the adjacent private open space and are
+therefore not considered to add to the GFA.
+7. Alfresco 1 on the ground level will also be excluded from GFA if the
+2100mm wide window and supporting wall are removed to ground
+level to substantially open this space and provide ready access at
+grade from the adjacent private open space.
+28 ‘Font boundary’ is defined in the Territory Plan to mean “any boundary of a block adjacent to
+a public road, public reserve or public pedestrian way.”
+29 ‘Building line’ is defined in the Territory Plan to mean “a line drawn parallel to any front
+boundary along the front face of the building or through the point on a building closest to the
+front boundary. A terrace, landing, porch, balcony, deck or veranda that is more than 1.5 m
+above finished ground level or is covered by a roof is deemed to be part of the building. A
+fence, courtyard wall or retaining wall is not deemed to be part of the building.”
+8. The roofed terrace accessed from Bed 3 and the small roofed terrace
+accessed through the WIR will also be excluded from GFA, subject to
+replacing the south facing 1.7m high privacy wall for each terrace with
+a balustrade.
+9. The roofed terrace with outdoor kitchenette accessed from the living
+area currently contributes to GFA. To avoid this, both the east and
+west facing walls should be removed and opened up at grade level with
+the adjacent open terrace. If this is not possible, and as a compromise,
+the Territory would accept the south facing privacy wall of this terrace
+being replaced with a balustrade and the west or east facing wall of
+the roofed terrace being removed and opened up at grade level with
+the adjacent open terrace. It is acknowledged supporting columns and
+beams may be required to support the roof.
+50. The applicant has not lodged a development application and the stop notice
++LIIAustLII AustLII AustLII Aust!
+remains in place.
+51. On 29 October 2020, Mr Jonathan Swale and Mr Joel Muir, both building
+inspectors working for Access Canberra, inspected the site. They observed that
+the property was at approximately lock-up stage and was nearing completion.
+The internal linings, floor coverings other than carpet, kitchen joinery, baths,
+showers, and most internal fixings were installed. A copy of their report,
+including photos showing the state of completion, is in evidence.30
+52. When Ms Blissenden inspected the building work on 22 November 2019, the
+work was approaching pre-sheet stage; timber framing was fully visible; there
+was ladder access only to the upper level; external walls were half painted and
+half bare render and external cladding was incomplete. Must!Il Aust !!! AustLII AustLi
+53. It is apparent, therefore, that the applicant failed to comply with the stop notice
+and has continued carry out building work while building approval for the work
+remains suspended.
+54. One of the photographs taken on 29 October 2020 shows that the applicant has
+fully enclosed Veranda 2. 31 In his oral evidence to the Tribunal, he admitted that
+internal door access to the enclosed space remains but claimed that he intended
+closing this off to make the space inaccessible. He claimed this would result in
+30 Exhibit 1 document A11, pages 99 to 150
+31 Exhibit 1 page 138
+the space not being counted towards the GFA. Whether or not doing so will
+produce the desired result is debatable but is not an issue the Tribunal has to
+decide here. However, the logic of the applicant’s decision to enclose Veranda 2
+is difficult to understand. Veranda 2 previously did not contribute to the GFA.
+By enclosing the space, which currently remains internally accessible, it does
+contribute to GFA. As a result, on any view, the development in its current form
+exceeds the permissible plot ratio under R1 of the SDHDC.
+The determinative issue – front setback
+55. The certifier is solely responsible for assessing whether a development is DA
+exempt. A certifier may issue a building approval for a development that does
+not +LIIAustLII AustLII AustLII Aust! have development approval only if the development is an exempt
+development under section 133 of the Planning Act – i.e., if the plans meet all
+of the relevant codes and design requirements applicable to the development. In
+this case the relevant code is the SDHDC.
+56. Although approved plans must be lodged with Access Canberra, it is not part of
+the Territory’s statutory functions to independently assess the correctness or
+otherwise of a certifier’s assessment at the time of lodgement. If a certifier
+wrongly issues a building approval in the mistaken belief that a development is
+DA exempt, building work is not excused from requiring development approval.
+If, because of an inspection by an authorised building inspector, it is found that
+building work is being carried out without a valid building approval, the
+inspector is authorised to issue a stop notice. If the owner suffers loss as a result, Must!Il Aust !!! AustLII AustLi
+the owner may have a right to claim compensation from the certifier. But the
+owner does not have any right to claim compensation from the Territory in
+those circumstances.
+57. The original and amended plans do not comply with the front setback
+requirements in Rule R11. Table 2C applies to this development. The minimum
+front boundary setback is 4m for the lower floor level, 6m for the upper floor
+level and 5.5m for the garage, which must be a minimum of 1.5m behind the
+front building line except where there is a courtyard wall in the front zone,
+which is not the case here. The upper floor level balcony has a 4.26m setback
+from the front boundary and therefore does not comply.
+58. The exception for a “minimum front boundary setback to open space or
+pedestrian paths wider than 6m”, upon which the applicant relies, does not
+apply. The front boundary is not “to open space”. The use of the word “to”
+indicates that the front boundary of the land must be contiguous with the
+boundary of the open space. The applicant claims that the exception applies
+where the front boundary “faces to open space”. 32 The applicant is mistaken.
+That is not what the rule states.
+59. The development as designed and as built does not comply with R11. Several
+consequences flow inevitably from that finding, which we set out below.
+60. +LIIAustLII AustLII AustLII Aust! First, the development is not, and never has been, an exempt development
+within the meaning of section 133 of the Planning Act.
+61. Second, the development requires, and always has required, development
+approval in the merit track under Division 7.2.3 of the Planning Act.
+62. Third, neither the original plans nor the amended plans meet the approval
+requirement in section 29(1)(g) of the Building Act because the plans show site
+work that, if carried out in accordance with the plans, is not exempt under the
+Planning Act from requiring development approval. As a result, the certifier was
+prohibited by section 30 of the Building Act from issuing a building approval
+for the original plans and later, approving the amended plans.
+63. Fourth, there were valid grounds for a stop notice to be issued on 3 December Must!Il Aust !!! AustLII AustLi
+2019 and subsequently for the stop notice not to be cancelled. The applicant
+does not dispute that he carried out building work otherwise than in accordance
+with the approved plans. The submission of amended plans on 23 December
+2019 does not mean that the grounds for the stop notice ceased to exist because
+the building work formed part of a development that required development
+approval, which the applicant did not have. Neither the original building
+approval nor the amended building approval was validly issued in accordance
+with, respectively, section 28 and section 32 of the Building Act.
+32 Email from the applicant to Mr Lhuede dated 27 May 2020, sent in response to the Notice of
+Decision refusing to cancel the stop notice – Exhibit 1 at page 95
+64. Fifth, unless and until the applicant obtains development approval, building
+work cannot lawfully continue and the applicant and his family cannot lawfully
+occupy the house at completion. The applicant’s current problems are
+compounded by the fact that he has continued to carry out building work in
+breach of the stop notice – i.e., without development approval and without
+building approval – to the point where the site work appears to be nearing
+completion.
+The GFA issue
+65. It is important to observe that this application does not involve an administrative
+review of the decision to issue the stop notice, or later not to cancel the stop
++LIIAustLII AustLII AustLII Aust! notice. The stop notice was validly issued and remains in force. The only way
+the applicant can lawfully complete the building work and commence to occupy
+his new home is to obtain development approval. The unauthorised enclosure
+of Veranda 2 means that the development exceeds the maximum permissible
+plot ratio under R1 of the SDHDC, which is a mandatory requirement.
+66. It will be apparent from the background facts set out earlier that the question
+whether unauthorised changes made to the alfresco and terrace areas means that
+those areas also should be included in the calculation of GFA is likely to be a
+critical and potentially contentious issue when and if the applicant seeks
+development approval.
+67. If the ACT Planning and Land Authority refuses development consent on the Must!Il Aust !!! AustLII AustLi
+grounds that the development exceeds the maximum permissible plot ratio
+under R1, it will be open for the applicant to apply to the ACAT for
+administrative review of the decision. Any views the Tribunal may express on
+the calculation of GFA in determining the present civil dispute application
+would not finally determine the issue and would not bind a differently
+constituted tribunal that may have to determine an application for administrative
+review of a decision to refuse development consent.
+Conclusion
+68. Neither party considered the evidentiary and legal requirements set out in
+Chapter 8 of the Civil Law (Wrongs) Act 2002, which governs (and limits) the
+civil liability in tort of the Territory. Nor did the applicant identify any legal
+basis for a claim that the Territory may be held liable to pay compensation
+under the Australian Consumer Law or the Building Act. Having regard to the
+Tribunal’s earlier findings in relation to front setback issue, the failure to do so
+has no bearing on the outcome. The Tribunal is satisfied, based on those
+findings, that the application must be dismissed.
+………………………………..
+Senior Member M Orlov
+For and on behalf of the Tribunal
++LIIAustLII AustLII AustLII Aust!
+Date(s) of hearing 23 November 2020
+Applicant: In person
+Solicitors for the Ms Z Robens, ACT Government Solicitor
+Respondent:
+Must!Il Aust !!! AustLII AustLi
