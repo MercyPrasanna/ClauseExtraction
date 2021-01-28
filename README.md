@@ -350,6 +350,8 @@ The indexers output field mapping maps the case entity complex type collection t
 
 The index can be explored either from Azure Cognitive Search portal, postman or integrated with UI using this [UI accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining). This accelerator can be great starting point if you are new to Azure Cognitive Search.
 
+The below screenshot shows the citation clause output.
+![](/media/Citation.PNG?raw=true) 
 
 ## Contributors
 
