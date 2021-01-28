@@ -64,7 +64,7 @@ Data preperation parameters can be configured in ['DataPrep.ipynb'](./DataPrep.P
 * dst_dir : destination directory where processed text files are saved
 
 Sample results
-![](/media/DataPrepOutput.png?raw=true)
+![](/media/dataPrepOutput.png?raw=true)
 
 ### 2. Develop the Custom Text Entity Extractor and Classification Models
 
@@ -145,13 +145,6 @@ Sample output from the published application looks like,
   }
 }
 ```
-
-
-### 2. Develop an Azure Cognitive Search Custom Skill for Pre-Processing
-
-Deploy the Python Custom Skill as an Azure Function App using the [Preprocessing code](./ClauseExtraction.AzureFunction.Python).
-
-This custom skill does OCR and also eliminates the header and footers from the documents.
 
 ### 3. Develop an Azure Cognitive Search Custom Skill for Clause Extraction and Document Classification
 
